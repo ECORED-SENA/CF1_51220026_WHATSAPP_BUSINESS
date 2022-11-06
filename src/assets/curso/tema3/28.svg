@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="20" viewBox="0 0 19 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_308949" data-name="Rectángulo 308949" width="19" height="20" transform="translate(0.412)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 30 30">
+      <image width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABHNCSVQICAgIfAhkiAAAA71JREFUSIm1lV1MW2UYx//v+Xj7sZllm2QbOAmQkCy1TJeN78Urd+Ut6mKWbASXiQVW03Cy6YWXLhpvuNMo2AopNFPTzWSaeLXVhfKhaKaSdrTnANto68ThmLT0PF7wMawUzoHuf3me55zf8/zf530OwxPSyZMt+w6UFXfo+mI6+3Duo66urgdr4+xJQJtOt+4vLz0wkslkihkD9KweeUiZYx9fuvTXSo5YaOipUy1lJc/u82ezWcfKM8bYXhnCkWMvNHwbDt+YLzj4tebm4v3PlPiJqCE3xhirEDg7XNVQd2UkFFoQCshlRXuePs9AtXkTGDuxg/Hhs2eVXQXpuLOz86lQKLQQjsdCz1cessuyXA1g3aYYwx7RQuntgtlbbsUhWKx9R6prpoa+uzZ+b0q7XlF5SJa5XI88w7uYzY5uC/xmh6fKvsP+C4FKuSy/fLC49KubN6/P/JlK3CgqKoF9p/14Llzm0h/RyHjLlsFt7gvHLTarn0C7AYAA2669u18/WlM3eu1qMPLTg/s/HC6rWOCcN2J5iIno1q+3xk98c3kgthUwcyuKU5SlfjCU58RskiS9dLSmbix8NRiZTSXCB8vK5znnLxLpsXh8svlKoG8MAJleIC634rTYLaNEJOWtTBBSdyfU+r6+nggAy5nWttOP5mZH/D7fKAAdMLm5Wt9W6q1W/gWAss1yGWOz6YV0U9eH73+PJasJQHYlbtRq5nIrTouNB4xAl2WVJLkymf5n4P709KNl8Kry2rVW7Z6LDplLo4T89uZK5hKiv6tt0cHBufXim26uVkVpFLkYNAPViTT1drz2sv+zH5HT6Yo2+hjr8HicgsA/Z8btBemkpVLJFr+vewjLg2QKfM7jcUhW+xjp6xa8rgRR1Kcm1Vf8vtINoUAeq13nLzTYuS1oBkoETVUn6/y+v4eB9zaEAv/vmJ1r9zi4TfYCZNxegnY3kWgOeD8NG33nP/e4w3OxSuLiCBmcdmDJXlWdqAt4vYahwBqr25V36gUufG0GSgRtKq7WB7zeETNQYAnCXIrynCSKPlP2gtRkMvnG0pk+3khGxVxuxWm1W3/WadN5eFytJEGLxWs3uzIbSRCt0gdmoETQouOxar+ve3irUACQGLGdhn8VROrMzEzLl/09Q1sFroKNJoqCsHhn6k5TX88nw9uFAgZ2NQAQkXZvWmvs7Ynk3b1mtWnHRNASiWRzb/fWB8k0WJYkxG/HXu3v7RlEgTpdBWcy6d8EQZRzA0Q0H41OvBsc6B0qNBQA/gVM4H/HJ1epJQAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="Grupo_988734" data-name="Grupo 988734" transform="translate(-0.412)">
+    <g id="Grupo_988733" data-name="Grupo 988733" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <rect id="Rectángulo_308948" data-name="Rectángulo 308948" width="19" height="20" transform="translate(0.412)" fill="url(#pattern)"/>
+    </g>
+  </g>
+</svg>
