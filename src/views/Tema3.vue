@@ -7,14 +7,14 @@
         span 3
       h1 Optimización en motores de búsqueda
 
-    p(data-aos="fade-up") Existen diversas estrategias para desarrollar un plan narrativo que cumplan con los objetivos, acciones y tácticas que se han planteado previamente. En la actualidad, el principal propósito es crear contenidos multimedia de diversos tipos, como newsletters, multimedia en redes sociales, blogs y campañas publicitarias pagadas, creación de sitios web o landing pages, entre otros, que se relacionen con el objetivo transmedia. A continuación, se presentarán estrategias para poner en marcha un plan de posicionamiento en motores de búsqueda:
+    p(data-aos="fade-up") Existen diversas estrategias para desarrollar un plan narrativo que cumplan con los objetivos, acciones y tácticas que se han planteado previamente. En la actualidad, el principal propósito es crear contenidos multimedia de diversos tipos, como #[em newsletters], multimedia en redes sociales, #[em blogs] y campañas publicitarias pagadas, creación de sitios #[em web o landing pages], entre otros, que se relacionen con el objetivo #[em transmedia]. A continuación, se presentarán estrategias para poner en marcha un plan de posicionamiento en motores de búsqueda:
 
     .tarjeta.p-5.mt-5(style="background-color:#FFF9E9;")
       SlyderA(tipo="b")
         .row
           .col-lg-4.mb-4.mb-lg-0
             h5 Publique contenido llamativo
-            p Publicar textos especializados, que tengan temáticas relacionadas con los productos que se están vendiendo. Por ejemplo, si se tiene un negocio online de flores, abrir un blog que hable acerca de las principales técnicas de floricultura, o de las tendencias de arreglos florales, o, en general, de temas relacionados con el mundo de las flores. Naturalmente, los motores de búsqueda comenzarán a relacionar este contenido. Dentro de los blogs, incluir enlaces a las cuentas de WhatsApp Business, a través de las cuales el cliente podrá contactar directamente a la compañía para obtener más información.
+            p Publicar textos especializados, que tengan temáticas relacionadas con los productos que se están vendiendo. Por ejemplo, si se tiene un negocio online de flores, abrir un #[em blog] que hable acerca de las principales técnicas de floricultura, o de las tendencias de arreglos florales, o, en general, de temas relacionados con el mundo de las flores. Naturalmente, los motores de búsqueda comenzarán a relacionar este contenido. Dentro de los #[em blogs], incluir enlaces a las cuentas de #[em WhatsApp Business], a través de las cuales el cliente podrá contactar directamente a la compañía para obtener más información.
           .col-lg-8
             figure
               img(src='@/assets/curso/tema3/1.png')
@@ -27,8 +27,8 @@
               img(src='@/assets/curso/tema3/2.png')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Use llamados a la acción a WhatsApp
-            p Los llamados a la acción son botones o textos llamativos llamando al cliente a tomar la decisión de acercarse más al producto que se ofrece. Ejemplos de ellos son botones grandes y llamativos en los landing pages, newsletters, redes sociales o portales de venta, que invitan al cliente a contactar a la compañía a través del WhatsApp Business. 
+            h5 Use llamados a la acción a #[em WhatsApp]
+            p Los llamados a la acción son botones o textos llamativos llamando al cliente a tomar la decisión de acercarse más al producto que se ofrece. Ejemplos de ellos son botones grandes y llamativos en los #[em landing pages, newsletters], redes sociales o portales de venta, que invitan al cliente a contactar a la compañía a través del #[em WhatsApp Business]. 
           .col-lg-8
             figure
               img(src='@/assets/curso/tema3/3.png')
@@ -41,8 +41,8 @@
               img(src='@/assets/curso/tema3/4.png')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Realice segmentación de destinatarios de newsletter
-            p Al utilizar componentes de segmentación, como características demográficas, edad, género, o incluso perfilamientos de clientes más específicos, garantizará que el contenido tenga mayor relevancia y vaya dirigido a quien realmente le interese. Esto además reducirá la percepción de que los comunicados enviados sean spam o correo no deseado. Es importante prestar atención a esto, dado que los motores de búsqueda pueden confundir algunas de las palabras clave con términos de spam, al igual que el Whatsapp Business, que tiene una estricta política antispam.
+            h5 Realice segmentación de destinatarios de #[em newsletter]
+            p Al utilizar componentes de segmentación, como características demográficas, edad, género, o incluso perfilamientos de clientes más específicos, garantizará que el contenido tenga mayor relevancia y vaya dirigido a quien realmente le interese. Esto además reducirá la percepción de que los comunicados enviados sean #[em spam] o correo no deseado. Es importante prestar atención a esto, dado que los motores de búsqueda pueden confundir algunas de las palabras clave con términos de #[em spam], al igual que el #[em Whatsapp Business], que tiene una estricta política #[em antispam].
           .col-lg-8
             figure
               img(src='@/assets/curso/tema3/5.png')
@@ -57,8 +57,8 @@
         figure
           img(src="@/assets/curso/tema3/6.png" data-aos="fade-right")
       .col-xl-8
-        p(data-aos="fade-up") Para poder dominar una buena propuesta gramatical, es necesario conocer el concepto de copy. El copy se define como #[strong un texto o un conjunto de textos creativos que se emplean en mercadeo, publicidad y procesos de comunicación y narrativas transmedia con la finalidad de transmitir un mensaje al cliente de cara a la venta, promoción o información de un producto, servicio o soporte] (40defiebre, s. f.).
-        p.mt-4(data-aos="fade-up") El copy es el texto que se redacta para comunicar el valor agregado de la compañía. Este se relaciona también con el tono que utilizan asesores de venta o soporte técnico y que tiene que estar alineado con la estrategia comunicativa de la compañía. Se recomienda que estos textos sean creados por un experto en redacción creativa y mercadotecnia. Sin embargo, de no contar con un profesional en este campo, es necesario estudiar a la competencia y los principales ejemplos de técnicas comunicacionales y narrativas para el producto, servicio o soporte que se está ofreciendo.
+        p(data-aos="fade-up") Para poder dominar una buena propuesta gramatical, es necesario conocer el concepto de #[em copy]. El #[em copy] se define como #[strong un texto o un conjunto de textos creativos que se emplean en mercadeo, publicidad y procesos de comunicación y narrativas transmedia con la finalidad de transmitir un mensaje al cliente de cara a la venta, promoción o información de un producto, servicio o soporte] (40defiebre, s. f.).
+        p.mt-4(data-aos="fade-up") El #[em copy] es el texto que se redacta para comunicar el valor agregado de la compañía. Este se relaciona también con el tono que utilizan asesores de venta o soporte técnico y que tiene que estar alineado con la estrategia comunicativa de la compañía. Se recomienda que estos textos sean creados por un experto en redacción creativa y mercadotecnia. Sin embargo, de no contar con un profesional en este campo, es necesario estudiar a la competencia y los principales ejemplos de técnicas comunicacionales y narrativas para el producto, servicio o soporte que se está ofreciendo.
 
     p.mt-5(data-aos="fade-up") #[strong En cuanto a las características que tiene una buena propuesta gramatical, se encuentran:]
 
@@ -112,8 +112,8 @@
         figure
           img(src="@/assets/curso/tema3/13.png" data-aos="fade-right")
       .col-xl-8(style="place-self:center")
-        p(data-aos="fade-up") El Big data es un concepto que tiene una complejidad alta, sin embargo, a continuación, se hará una corta definición que ayude a comprender el papel de este concepto en las comunicaciones comerciales vía WhatsApp Business y WhatsApp Business API. Cuando se habla de Big data, se hace referencia al conjunto de datos de alto volumen, complejidad y crecimiento que dificultan su organización, procesamiento y gestión. Se habla de Big data a partir de los 15 terabytes de información acumulada. Dada la naturaleza de este tipo de datos, los usuarios de WhatsApp Business App, por tratarse de micro y pequeñas empresas, no estarán sometidos a ellos. Sin embargo, se enfrentarán a conjuntos de datos que son igualmente importantes, por cuanto se recomienda la gestión y procesamiento de dichos datos, obtenidos del cliente, utilizando herramientas como Excel.
-        p.mt-4(data-aos="fade-up") Lo que hace que Big data tenga una alta importancia para las empresas es el hecho de que proporciona respuestas a muchas de las dudas que las compañías se plantean con respecto a diversas áreas de la organización, tales como ventas, finanzas, servicio al cliente, público objetivo, etc. Se pueden identificar problemas, tendencias, cambios en las necesidades de los clientes, entre muchas otras cosas, por medio del moldeamiento y análisis de dichos datos.
+        p(data-aos="fade-up") El #[em Big data] es un concepto que tiene una complejidad alta, sin embargo, a continuación, se hará una corta definición que ayude a comprender el papel de este concepto en las comunicaciones comerciales vía #[em WhatsApp Business] y #[em WhatsApp Business API]. Cuando se habla de #[em Big data], se hace referencia al conjunto de datos de alto volumen, complejidad y crecimiento que dificultan su organización, procesamiento y gestión. Se habla de #[em Big data] a partir de los 15 #[em terabytes] de información acumulada. Dada la naturaleza de este tipo de datos, los usuarios de #[em WhatsApp Business App], por tratarse de micro y pequeñas empresas, no estarán sometidos a ellos. Sin embargo, se enfrentarán a conjuntos de datos que son igualmente importantes, por cuanto se recomienda la gestión y procesamiento de dichos datos, obtenidos del cliente, utilizando herramientas como Excel.
+        p.mt-4(data-aos="fade-up") Lo que hace que #[em Big data] tenga una alta importancia para las empresas es el hecho de que proporciona respuestas a muchas de las dudas que las compañías se plantean con respecto a diversas áreas de la organización, tales como ventas, finanzas, servicio al cliente, público objetivo, etc. Se pueden identificar problemas, tendencias, cambios en las necesidades de los clientes, entre muchas otras cosas, por medio del moldeamiento y análisis de dichos datos.
 
     .row.mt-5.p-4(style="background-color:#FFD76A;border-radius:10px")
       .col(style="place-self:center")
@@ -153,12 +153,12 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_3_3 3.3 El feed de noticias
+      h2#t_3_3 3.3 El #[em feed] de noticias
 
     .row
       .col-xl-8.mb-5.mb-xl-0(style="place-self:center")
-        p(data-aos="fade-up") El feed de noticias, WhatsApp Status o WhatsApp stories, es una herramienta con la que cuentan las diferentes versiones de App de WhatsApp para compartir información de interés, mensajes atractivos, promociones, nuevos productos, etc. Empresas tales como Netflix, Hellman’s y Absolut hacen uso de esta herramienta específica. El formato story (estado), en sus diferentes versiones de redes sociales: Instagram, Tik Tok, Facebook, YouTube, etc., es uno de los más utilizados y atractivos en la actualidad. Estos mensajes desaparecerán del feed de los usuarios 24 horas después de publicados (excepto YouTube), por lo que cuentan con una vida útil relativamente corta. Sin embargo, en las dinámicas de consumo digital actuales, es suficiente tiempo como para generar un impacto importante en el usuario, según las expectativas y el objetivo que se quiera alcanzar con ellas. 
-        p.mt-4(data-aos="fade-up") Es importante mencionar que cada día se comparten más de 500 millones de stories en la plataforma de WhatsApp/WhatsApp Business. #[strong A continuación, se brindarán algunas ideas de contenido que pueden compartirse a través de WhatsApp stories para generar un impacto positivo en el consumidor o cliente:]
+        p(data-aos="fade-up") El #[em feed] de noticias, #[em WhatsApp Status] o #[em WhatsApp stories], es una herramienta con la que cuentan las diferentes versiones de App de #[em WhatsApp] para compartir información de interés, mensajes atractivos, promociones, nuevos productos, etc. Empresas tales como Netflix, #[em Hellman’s y Absolut] hacen uso de esta herramienta específica. El formato #[em story] (estado), en sus diferentes versiones de redes sociales: #[em Instagram], Tik Tok, #[em Facebook], YouTube, etc., es uno de los más utilizados y atractivos en la actualidad. Estos mensajes desaparecerán del #[em feed] de los usuarios 24 horas después de publicados (excepto YouTube), por lo que cuentan con una vida útil relativamente corta. Sin embargo, en las dinámicas de consumo digital actuales, es suficiente tiempo como para generar un impacto importante en el usuario, según las expectativas y el objetivo que se quiera alcanzar con ellas. 
+        p.mt-4(data-aos="fade-up") Es importante mencionar que cada día se comparten más de 500 millones de #[em stories] en la plataforma de #[em WhatsApp]/#[em WhatsApp Business]. #[strong A continuación, se brindarán algunas ideas de contenido que pueden compartirse a través de #[em WhatsApp stories] para generar un impacto positivo en el consumidor o cliente:]
       .col-xl-4(style="place-self:center")
         figure
           img(src="@/assets/curso/tema3/18.png" data-aos="fade-left")
@@ -187,7 +187,7 @@
           img(src="@/assets/curso/tema3/22.png")
           .p-4(style="background-color:#00C1AB;position:absolute;width:100%;bottom:0;")
             p #[strong Promociones]
-            p Promociones especiales para la audiencia que se aloja en WhatsApp y que visualicen las WhatsApp stories.
+            p Promociones especiales para la audiencia que se aloja en #[em WhatsApp] y que visualicen las #[em WhatsApp stories].
       .col-xl-4.col-lg-6.mt-4
         figure.cont_tarjeta_1(data-aos="zoom-in-up" style="position:relative;")
           img(src="@/assets/curso/tema3/23.png")
@@ -203,58 +203,58 @@
 
     .row.mt-5.p-4(style="background-color:#FFD76A;border-radius:10px")
       .col(style="place-self:center")
-        p.mb-0(data-aos="fade-up") Este concepto es tan viral que no solo se usa por empresas y WhatsApp corporativo, muchas personas lo usan para informar a su audiencia de lo que están haciendo, a través del WhatsApp persona. ¿Alguna vez ha publicado un estado de WhatsApp en el que cuente algo?
+        p.mb-0(data-aos="fade-up") Este concepto es tan viral que no solo se usa por empresas y #[em WhatsApp] corporativo, muchas personas lo usan para informar a su audiencia de lo que están haciendo, a través del #[em WhatsApp] persona. ¿Alguna vez ha publicado un estado de #[em WhatsApp] en el que cuente algo?
       .col-auto(style="place-self:center")
         figure
           img(src="@/assets/curso/tema3/25.svg" data-aos="fade-left") 
 
-    p.mt-5(data-aos="fade-up") Tanto la aplicación de WhatsApp personal como la WhatsApp Business App cuentan con la herramienta de feed o status. #[strong A continuación, se detallarán algunas instrucciones para utilizar el feed de noticias, status o WhatsApp stories:]
+    p.mt-5(data-aos="fade-up") Tanto la aplicación de #[em WhatsApp] personal como la #[em WhatsApp Business App] cuentan con la herramienta de #[em feed] o #[em status]. #[strong A continuación, se detallarán algunas instrucciones para utilizar el #[em feed] de noticias, #[em status] o #[em WhatsApp stories]:]
 
     .row.mt-5
       .col-xl-8.mb-5.mb-xl-0
         LineaTiempoD.color-secundario
-          .row.p-4(numero="1" titulo="¿Cómo visualizar las stories?")
+          .row.p-4(numero="1" titulo="¿Cómo visualizar las <em>stories</em>?")
             .col-lg-4.mb-4.mb-lg-0
               figure
                 img(src="@/assets/curso/tema3/26.png")
             .col-lg-8
-              p Para visualizar los status de otros contactos de WhatsApp, basta con pulsar la pestaña de status y luego presionar el avatar del contacto para desplegar su estados; posteriormente, elige el nombre que prefiere y da clic.
-          .row.p-4(numero="2" titulo="¿Cómo responder a un status o WhatsApp story?")
+              p Para visualizar los #[em status] de otros contactos de #[em WhatsApp], basta con pulsar la pestaña de #[em status] y luego presionar el avatar del contacto para desplegar su estados; posteriormente, elige el nombre que prefiere y da clic.
+          .row.p-4(numero="2" titulo="¿Cómo responder a un <em>status</em> o <em>WhatsApp story</em>?")
             .col-lg-4.mb-4.mb-lg-0
               figure
                 img(src="@/assets/curso/tema3/27.png")
             .col-lg-8
-              p Simplemente, presionar en la sección de ‘Reply’ o ‘Responder’ para interactuar con el usuario o compañía detrás del status y enviar un mensaje relacionado con él.
+              p Simplemente, presionar en la sección de ‘#[em Reply]’ o ‘Responder’ para interactuar con el usuario o compañía detrás del #[em status] y enviar un mensaje relacionado con él.
           .row.p-4(numero="3" titulo="¿Cómo crear un nuevo <em>status</em>?")
-            p Para ello, se debe abrir la aplicación y presionar en la sección de status. Luego, elegir entre las siguientes opciones:
+            p Para ello, se debe abrir la aplicación y presionar en la sección de #[em status]. Luego, elegir entre las siguientes opciones:
             .row.mt-4.m-0.p-0
               .col-auto
                 figure
                   img(src="@/assets/curso/tema3/28.svg")
               .col
                 p.mb-0 #[strong a. Presionar el ícono de texto]
-                p Para escribir un status con palabras, al que se le pueden agregar emojis, Gifs y modificar los colores de diseño del texto. Asimismo, se pueden incluir hipervínculos.
+                p Para escribir un status con palabras, al que se le pueden agregar emojis, #[em Gifs] y modificar los colores de diseño del texto. Asimismo, se pueden incluir hipervínculos.
             .row.mt-4.m-0.p-0
               .col-auto.pe-0
                 figure
                   img(src="@/assets/curso/tema3/29.svg")
               .col
                 p.mb-0 #[strong b. Presionar el ícono de Cámara.]
-                p Para tomar una foto o grabar un video o un Gif. También se puede elegir una foto o video preexistente. Asimismo, se puede agregar un pequeño texto descriptivo al contenido que se comparta.
+                p Para tomar una foto o grabar un video o un #[em Gif]. También se puede elegir una foto o video preexistente. Asimismo, se puede agregar un pequeño texto descriptivo al contenido que se comparta.
           .row.p-4(numero="4" titulo="¿Cómo publicar un <em>status</em>?")
-            p Para ello, se debe abrir la aplicación y presionar en la sección de status. Luego, elegir entre las siguientes opciones:
+            p Para ello, se debe abrir la aplicación y presionar en la sección de #[em status]. Luego, elegir entre las siguientes opciones:
             .row.mt-4.m-0.p-0
               .col-auto
                 figure
                   img(src="@/assets/curso/tema3/30.svg")
               .col
-                p.mb-0 Luego de haber editado el texto, foto o video que se quiera compartir por medio de status, se debe presionar en el botón de enviar para que el contenido quede publicado y disponible para la audiencia.
-          .row.p-4(numero="5" titulo="¿Cómo dar más originalidad a un status?")
+                p.mb-0 Luego de haber editado el texto, foto o video que se quiera compartir por medio de #[em status], se debe presionar en el botón de enviar para que el contenido quede publicado y disponible para la audiencia.
+          .row.p-4(numero="5" titulo="¿Cómo dar más originalidad a un <em>status</em>?")
             .col-lg-4.mb-4.mb-lg-0
               figure
                 img(src="@/assets/curso/tema3/31.png")
             .col-lg-8
-              p Los consumidores y clientes están en constante búsqueda de autenticidad y originalidad en las marcas que consumen. Es necesario compartir historias de WhatsApp que reflejen la identidad de marca y originalidad.
+              p Los consumidores y clientes están en constante búsqueda de autenticidad y originalidad en las marcas que consumen. Es necesario compartir historias de #[em WhatsApp] que reflejen la identidad de marca y originalidad.
       .col-xl-4(style="place-self:end")
         figure
           img(src="@/assets/curso/tema3/32.svg" data-aos="fade-left") 

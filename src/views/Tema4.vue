@@ -17,25 +17,25 @@
           figure
             img(src="@/assets/curso/tema4/1.svg" data-aos="fade-right")
         .col.p-3.d-flex.align-items-center(style="background-color:#D8F5F2;border-top-right-radius:10px;border-bottom-right-radius:10px;")
-          p.mb-0(data-aos="fade-up") #[strong Blogs]
+          p.mb-0(data-aos="fade-up") #[strong #[em Blogs]]
       .row.m-0.col-lg-3.mb-4.mb-lg-0
         .col-auto.p-3(style="background-color:#006475;")
           figure
             img(src="@/assets/curso/tema4/2.svg" data-aos="fade-right")
         .col.p-3.d-flex.align-items-center(style="background-color:#D8F5F2;border-top-right-radius:10px;border-bottom-right-radius:10px;")
-          p.mb-0(data-aos="fade-up") #[strong Checklists]
+          p.mb-0(data-aos="fade-up") #[strong #[em Checklists]]
       .row.m-0.col-lg-3.mb-4.mb-lg-0
         .col-auto.p-3(style="background-color:#006475;")
           figure
             img(src="@/assets/curso/tema4/3.svg" data-aos="fade-right")
         .col.p-3.d-flex.align-items-center(style="background-color:#D8F5F2;border-top-right-radius:10px;border-bottom-right-radius:10px;")
-          p.mb-0(data-aos="fade-up") #[strong E-books]
+          p.mb-0(data-aos="fade-up") #[strong #[em E-books]]
       .row.m-0.col-lg-3.mb-4.mb-lg-0
         .col-auto.p-3(style="background-color:#006475;")
           figure
             img(src="@/assets/curso/tema4/4.svg" data-aos="fade-right")
         .col.p-3.d-flex.align-items-center(style="background-color:#D8F5F2;border-top-right-radius:10px;border-bottom-right-radius:10px;")
-          p.mb-0(data-aos="fade-up") #[strong FAQs]
+          p.mb-0(data-aos="fade-up") #[strong #[em FAQs]]
       .row.m-0.col-lg-3.mb-lg-0.mt-4
         .col-auto.p-3(style="background-color:#006475;")
           figure
@@ -53,25 +53,25 @@
           figure
             img(src="@/assets/curso/tema4/7.svg" data-aos="fade-right")
         .col.p-3.d-flex.align-items-center(style="background-color:#D8F5F2;border-top-right-radius:10px;border-bottom-right-radius:10px;")
-          p.mb-0(data-aos="fade-up") #[strong Newsletters]
+          p.mb-0(data-aos="fade-up") #[strong #[em Newsletters]]
       .row.m-0.col-lg-3.mb-lg-0.mt-4
         .col-auto.p-3(style="background-color:#006475;")
           figure
             img(src="@/assets/curso/tema4/8.svg" data-aos="fade-right")
         .col.p-3.d-flex.align-items-center(style="background-color:#D8F5F2;border-top-right-radius:10px;border-bottom-right-radius:10px;")
-          p.mb-0(data-aos="fade-up") #[strong Podcasts]
+          p.mb-0(data-aos="fade-up") #[strong #[em Podcasts]]
       .row.m-0.col-lg-3.mb-lg-0.mt-4
         .col-auto.p-3(style="background-color:#006475;")
           figure
             img(src="@/assets/curso/tema4/9.svg" data-aos="fade-right")
         .col.p-3.d-flex.align-items-center(style="background-color:#D8F5F2;border-top-right-radius:10px;border-bottom-right-radius:10px;")
-          p.mb-0(data-aos="fade-up") #[strong Posts, tweets]
+          p.mb-0(data-aos="fade-up") #[strong #[em Posts, tweets]]
       .row.m-0.col-lg-3.mb-lg-0.mt-4
         .col-auto.p-3(style="background-color:#006475;")
           figure
             img(src="@/assets/curso/tema4/10.svg" data-aos="fade-right")
         .col.p-3.d-flex.align-items-center(style="background-color:#D8F5F2;border-top-right-radius:10px;border-bottom-right-radius:10px;")
-          p.mb-0(data-aos="fade-up") #[strong Webinars]
+          p.mb-0(data-aos="fade-up") #[strong #[em Webinars]]
       .row.m-0.col-lg-3.mb-lg-0.mt-4
         .col-auto.p-3(style="background-color:#006475;")
           figure
@@ -121,39 +121,39 @@
         p.mb-0(data-aos="fade-up") Existen en el mercado muchas plataformas dedicadas a ofrecer herramientas básicas para la creación de contenido online. Algunas de ellas se usan para la producción de imágenes o infografías, mientras otras se centran en video, audio o texto. A continuación, se presentan algunas de las aplicaciones gratuitas más populares para la creación de contenido destinado a medios sociales, que cuentan con plantillas predeterminadas para facilitar su uso.
 
     TabsB.color-acento-contenido.mt-5
-      .py-4.py-md-5(titulo="Canva" :icono="require('@/assets/curso/tema4/18.svg')")
+      .py-4.py-md-5(titulo="<em>Canva</em>" :icono="require('@/assets/curso/tema4/18.svg')")
         .row
           .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
-            h5 Canva
-            p.mt-3 Canva es una plataforma web de diseño gráfico, edición y composición de imágenes, que ofrece herramientas de uso libre y gratuito, aunque también cuenta con una versión paga con herramientas y contenido adicional.
-            p.mb-0.mt-4 #[strong ¿Qué se puede crear en Canva?]
-            p Desde posts para Instagram, Facebook, YouTube, Twitter, Pinterest, hasta historias, reels, video animaciones, presentaciones, encabezados, banners, pins, y virtualmente cualquier pieza gráfica que se utilice en las plataformas actuales.
-            p.mt-4.mb-0 #[strong ¿Dónde se puede usar Canva?]
-            p Canva está disponible tanto para dispositivos móviles como para computadores. Al ser una aplicación web, el trabajo se almacena en la nube y se actualiza constantemente para evitar la pérdida de información. 
+            h5 #[em Canva]
+            p.mt-3 #[em Canva] es una plataforma web de diseño gráfico, edición y composición de imágenes, que ofrece herramientas de uso libre y gratuito, aunque también cuenta con una versión paga con herramientas y contenido adicional.
+            p.mb-0.mt-4 #[strong ¿Qué se puede crear en #[em Canva]?]
+            p Desde posts para #[em Instagram, Facebook], YouTube, Twitter, #[em Pinterest], hasta historias, #[em reels], video animaciones, presentaciones, encabezados, #[em banners, pins], y virtualmente cualquier pieza gráfica que se utilice en las plataformas actuales.
+            p.mt-4.mb-0 #[strong ¿Dónde se puede usar #[em Canva]?]
+            p #[em Canva] está disponible tanto para dispositivos móviles como para computadores. Al ser una aplicación web, el trabajo se almacena en la nube y se actualiza constantemente para evitar la pérdida de información. 
           .col-lg-4(style="place-self:center")
             figure
               img(src='@/assets/curso/tema4/19.png')
-      .py-4.py-md-5(titulo="Crello" :icono="require('@/assets/curso/tema4/18.svg')")
+      .py-4.py-md-5(titulo="<em>Crello</em>" :icono="require('@/assets/curso/tema4/18.svg')")
         .row
           .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
-            h5 Crello
-            p.mt-3 Al igual que Canva, Crello es una plataforma web de edición de contenido visual, en la que se puede elegir entre varias dimensiones para redes sociales.
-            p.mb-0.mt-4 #[strong ¿Qué se puede crear en Crello?]
-            p Posts para Instagram, Facebook, YouTube, Twitter, reels, video animaciones, presentaciones, pins, y virtualmente cualquier pieza gráfica que se utilice en las plataformas actuales. Además, cuenta con ejemplos de diseño actualizados, que van acompañados de tendencias. 
-            p.mt-4.mb-0 #[strong ¿Dónde se puede usar Crello?]
-            p Crello está disponible tanto para dispositivos móviles como para computadores; para dispositivos móviles, su aplicación más usada se llama VistaCreate. 
+            h5 <em>Crello</em>
+            p.mt-3 Al igual que #[em Canva], <em>Crello</em> es una plataforma web de edición de contenido visual, en la que se puede elegir entre varias dimensiones para redes sociales.
+            p.mb-0.mt-4 #[strong ¿Qué se puede crear en <em>Crello</em>?]
+            p Posts para #[em Instagram, Facebook], YouTube, Twitter, #[em reels], video animaciones, presentaciones, pins, y virtualmente cualquier pieza gráfica que se utilice en las plataformas actuales. Además, cuenta con ejemplos de diseño actualizados, que van acompañados de tendencias. 
+            p.mt-4.mb-0 #[strong ¿Dónde se puede usar <em>Crello</em>?]
+            p <em>Crello</em> está disponible tanto para dispositivos móviles como para computadores; para dispositivos móviles, su aplicación más usada se llama #[em VistaCreate]. 
           .col-lg-4(style="place-self:center")
             figure
               img(src='@/assets/curso/tema4/20.png')
-      .py-4.py-md-5(titulo="Inshot" :icono="require('@/assets/curso/tema4/18.svg')")
+      .py-4.py-md-5(titulo="<em>Inshot</em>" :icono="require('@/assets/curso/tema4/18.svg')")
         .row
           .col-lg-8.mb-4.mb-lg-0(style="place-self:center")
-            h5 Inshot
-            p.mt-3 Inshot es una app de creación y edición de video para dispositivos móviles, disponible tanto en iOS como en Android.
-            p.mb-0.mt-4 #[strong ¿Qué se puede crear en Inshot?]
-            p Desde editar clips, cortarlos, combinar videos, añadir efectos, música, voz, aplicar filtros y modificaciones básicas de la imagen, aplicar textos y stickers a los videos, agregar efectos de luz, entre otros.
-            p.mt-4.mb-0 #[strong ¿Dónde se puede usar Inshot?]
-            p Por ahora, Inshot está disponible en app para dispositivos móviles.
+            h5 <em>Inshot</em>
+            p.mt-3 <em>Inshot</em> es una app de creación y edición de video para dispositivos móviles, disponible tanto en iOS como en Android.
+            p.mb-0.mt-4 #[strong ¿Qué se puede crear en <em>Inshot</em>?]
+            p Desde editar clips, cortarlos, combinar videos, añadir efectos, música, voz, aplicar filtros y modificaciones básicas de la imagen, aplicar textos y #[em stickers] a los videos, agregar efectos de luz, entre otros.
+            p.mt-4.mb-0 #[strong ¿Dónde se puede usar <em>Inshot</em>?]
+            p Por ahora, <em>Inshot</em> está disponible en app para dispositivos móviles.
           .col-lg-4(style="place-self:center")
             figure
               img(src='@/assets/curso/tema4/21.png')
@@ -180,23 +180,23 @@
       SlyderA(tipo="b")
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Sitio web o Landing Pages
-            p Debido a la popularidad de las plataformas de búsqueda y a los adwords, los blogs son una de las principales fuentes de información que consultan clientes potenciales para investigar acerca de un tema específico, donde pueden verse reflejadas sus necesidades. Por este motivo, muchas compañías desarrollan contenido escrito de alguna temática que se relacione con su actividad económica, para lograr la atracción de sus clientes potenciales a través del posicionamiento de palabras y términos claros en sus blogs. 
-            p.mt-4 Es importante alimentar constantemente los textos de estos espacios digitales, para atraer atención a partir de novedades, ajustes, actualizaciones y desarrollos de los productos y servicios que se están promocionando. 
+            h5 Sitio #[em web] o #[em Landing Pages]
+            p Para impulsar el número de enganches y aumentar el tráfico, es una buena idea incluir enlaces a las #[em landing pages] en las diferentes publicaciones y así relacionar todo tipo de experiencias digitales para los clientes potenciales. Además, esto contribuirá a que los clientes amplíen la información que tengan de los productos o servicios a ofrecer. 
           .col-lg-8
             figure
               img(src='@/assets/curso/tema4/23.png')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Newsletter
-            p Este tipo de comunicación digital ha sido clave desde los inicios del Internet por su facilidad y forma directa en la que aborda al cliente. Además, da la opción de ser personalizado y utilizar herramientas muy convenientes, como bases de datos filtradas por intereses u organización. Tampoco suele incurrir en altos costos y puede ser utilizada para compartir enlaces de interés o contenidos especializados que otras plataformas no permitirían. Es muy fácil de cargar y visualizar, tanto en dispositivos móviles como en computadores. Además, su entrega es inmediata y no requiere de análisis de algoritmos o posicionamiento.
+            h5 Redes sociales
+            p Así como en los entornos presenciales existe la publicidad voz a voz, en el entorno digital, existen varios conceptos, como comunidad, nichos y viralidad, que aplican de maneras similares dentro de los canales y flujos de comunicación. Compartir la experiencia positiva que han tenido otros usuarios o clientes hace que el consumo de un producto o servicio sea exitoso. 
+            p.mt-4 Si se desarrolla de manera positiva, genera un efecto ‘bola de nieve’ que facilita la difusión de campañas de comunicación y estrategias de mercadeo. 
           .col-lg-8
             figure
               img(src='@/assets/curso/tema4/24.png')
         .row
           .col-lg-4.mb-4.mb-lg-0
             h5 Blogs
-            p Debido a la popularidad de las plataformas de búsqueda y a los adwords, los blogs son una de las principales fuentes de información que consultan clientes potenciales para investigar acerca de un tema específico, donde pueden verse reflejadas sus necesidades. Por este motivo, muchas compañías desarrollan contenido escrito de alguna temática que se relacione con su actividad económica, para lograr la atracción de sus clientes potenciales a través del posicionamiento de palabras y términos claros en sus blogs. 
+            p Debido a la popularidad de las plataformas de búsqueda y a los #[em adwords], los blogs son una de las principales fuentes de información que consultan clientes potenciales para investigar acerca de un tema específico, donde pueden verse reflejadas sus necesidades. Por este motivo, muchas compañías desarrollan contenido escrito de alguna temática que se relacione con su actividad económica, para lograr la atracción de sus clientes potenciales a través del posicionamiento de palabras y términos claros en sus blogs. 
             p.mt-4 Es importante alimentar constantemente los textos de estos espacios digitales, para atraer atención a partir de novedades, ajustes, actualizaciones y desarrollos de los productos y servicios que se están promocionando. 
           .col-lg-8
             figure
@@ -209,7 +209,7 @@
 
     .row
       .col-xl-8.mb-xl-0.mb-5(style="place-self:center")
-        p(data-aos="fade-up") Siendo un usuario de WhatsApp Business App, como compañía pequeña, se puede acceder al envío de mensajes masivos o listas de difusión a través de la aplicación. Debido a la estricta política antispam de WhatsApp, el número de usuarios a los cuales se limita el uso de listas de difusión para WhatsApp es de 256 usuarios por cada lista. Para ello, también se debe promover el almacenamiento del número que utilice la compañía en la lista de contactos de los clientes, para asegurar que los comunicados enviados a través de las listas de difusión sean entregados satisfactoriamente. También es recomendable el uso de hipervínculos, imágenes y demás material transmedia que se complemente con las demás estrategias adoptadas en otras plataformas. La ventaja de las listas de difusión para enviar material promocional, comunicados especiales o novedades de la compañía es que se pueden segmentar los clientes a los cuales se les enviará el mensaje.
+        p(data-aos="fade-up") Siendo un usuario de #[em WhatsApp Business App], como compañía pequeña, se puede acceder al envío de mensajes masivos o listas de difusión a través de la aplicación. Debido a la estricta política antispam de #[em WhatsApp], el número de usuarios a los cuales se limita el uso de listas de difusión para #[em WhatsApp] es de 256 usuarios por cada lista. Para ello, también se debe promover el almacenamiento del número que utilice la compañía en la lista de contactos de los clientes, para asegurar que los comunicados enviados a través de las listas de difusión sean entregados satisfactoriamente. También es recomendable el uso de hipervínculos, imágenes y demás material transmedia que se complemente con las demás estrategias adoptadas en otras plataformas. La ventaja de las listas de difusión para enviar material promocional, comunicados especiales o novedades de la compañía es que se pueden segmentar los clientes a los cuales se les enviará el mensaje.
         p.mt-4(data-aos="fade-up") #[strong Para crear una nueva lista de difusión, se debe abrir la aplicación e ir a la sección de más opciones demarcada por el ícono de los tres puntos, como se observa en el siguiente video:]
       .col-xl-4
         figure
@@ -224,7 +224,7 @@
         figure
           img(src="@/assets/curso/tema4/27.png" data-aos="fade-right")
       .col-xl-8(style="position:relative")
-        p(data-aos="fade-up") #[strong Algunas limitaciones de la aplicación WhatsApp Business con respecto al envío de mensajes masivos o listas de difusión son:]
+        p(data-aos="fade-up") #[strong Algunas limitaciones de la aplicación #[em WhatsApp Business] con respecto al envío de mensajes masivos o listas de difusión son:]
         ul.lista-ul.mt-4
           li(data-aos="fade-up")
             i.fas.fa-paper-plane(style="color:#00C1AB;")
@@ -240,7 +240,7 @@
             | En las listas de difusión, no se pueden integrar los servicios de mensajes rápidos, chatbots o respuestas automatizadas.
           li(data-aos="fade-up")
             i.fas.fa-paper-plane(style="color:#00C1AB;")
-            | Es recomendable que los contactos dentro de la lista de difusión tengan guardado el número de contacto del WhatsApp Business de la empresa, para asegurar la entrega de dichos mensajes. 
+            | Es recomendable que los contactos dentro de la lista de difusión tengan guardado el número de contacto del #[em WhatsApp Business] de la empresa, para asegurar la entrega de dichos mensajes. 
 
     Separador.mt-5
 
@@ -249,13 +249,13 @@
 
     .row
       .col-xl-8.mb-5.mb-xl-0(style="place-self:center")
-        p(data-aos="fade-up") Los catálogos son una de las funciones más apetecidas por emprendedores, micro y pequeñas empresas en la aplicación gratuita de WhatsApp Business. Su objetivo es servir como una vitrina virtual de productos y servicios, sin necesidad de tener activa una página web. Además, permite la venta directa de estos artículos mediante el contacto directo con el cliente interesado. Esto evita tercerizaciones innecesarias y permite optimizar el proceso de venta.
-        p.mt-4(data-aos="fade-up") Los catálogos de WhatsApp Business App se han convertido en el mejor aliado para emprendedores que utilizan otras redes sociales, por su facilidad de integración y contacto. En ellos, se pueden agregar productos fácilmente y darles descripciones atractivas para atraer la atención del cliente.
+        p(data-aos="fade-up") Los catálogos son una de las funciones más apetecidas por emprendedores, micro y pequeñas empresas en la aplicación gratuita de #[em WhatsApp Business]. Su objetivo es servir como una vitrina virtual de productos y servicios, sin necesidad de tener activa una página web. Además, permite la venta directa de estos artículos mediante el contacto directo con el cliente interesado. Esto evita tercerizaciones innecesarias y permite optimizar el proceso de venta.
+        p.mt-4(data-aos="fade-up") Los catálogos de #[em WhatsApp Business App] se han convertido en el mejor aliado para emprendedores que utilizan otras redes sociales, por su facilidad de integración y contacto. En ellos, se pueden agregar productos fácilmente y darles descripciones atractivas para atraer la atención del cliente.
       .col-xl-4(style="place-self:center")
         figure
           img(src="@/assets/curso/tema4/28.png" data-aos="fade-left")
 
-    p.mt-5(data-aos="fade-up") La primera gran interacción con la audiencia es con la configuración y carga de un catálogo de productos o servicios, con los que los clientes potenciales y contactos de WhatsApp puedan validar lo que hace la empresa para la cual se está haciendo el trabajo, para eso, es necesario tener la aplicación instalada, un perfil creado y hacer los pasos que se muestran en el siguiente video. #[strong Se recomienda ya tener listos los productos o servicios que se van a mostrar y así tener un catálogo de impacto:]
+    p.mt-5(data-aos="fade-up") La primera gran interacción con la audiencia es con la configuración y carga de un catálogo de productos o servicios, con los que los clientes potenciales y contactos de #[em WhatsApp] puedan validar lo que hace la empresa para la cual se está haciendo el trabajo, para eso, es necesario tener la aplicación instalada, un perfil creado y hacer los pasos que se muestran en el siguiente video. #[strong Se recomienda ya tener listos los productos o servicios que se van a mostrar y así tener un catálogo de impacto:]
 
     figure.mt-4
       .video
@@ -295,10 +295,10 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_4_5 4.5 Engagement
+      h2#t_4_5 4.5 #[em Engagement]
 
-    p(data-aos="fade-up") El engagement se define como la capacidad que tiene una compañía o marca para involucrar a su público objetivo y crear en él un compromiso a largo plazo que termine en un proceso de fidelización, para luego comenzar a aportar valor de forma indirecta mediante su retroalimentación constante. 
-    p.mt-4(data-aos="fade-up") Aunque existen diversas formas de medirlo, unas más complejas que otras, indicadores verificables del engagement son, por ejemplo: visitas a la página web, suscriptores de un newsletter, comentarios, me gusta, entre otros. Sin embargo, no hay que confundir dichos indicadores con el objetivo del engagement: #[strong incrementar el nivel de participación y relacionamiento con la marca.] Para mejorar el engagement de la estrategia narrativa transmedia, se pueden tener en cuenta los siguientes factores:
+    p(data-aos="fade-up") El #[em engagement] se define como la capacidad que tiene una compañía o marca para involucrar a su público objetivo y crear en él un compromiso a largo plazo que termine en un proceso de fidelización, para luego comenzar a aportar valor de forma indirecta mediante su retroalimentación constante. 
+    p.mt-4(data-aos="fade-up") Aunque existen diversas formas de medirlo, unas más complejas que otras, indicadores verificables del #[em engagement] son, por ejemplo: visitas a la página web, suscriptores de un #[em newsletter], comentarios, me gusta, entre otros. Sin embargo, no hay que confundir dichos indicadores con el objetivo del #[em engagement]: #[strong incrementar el nivel de participación y relacionamiento con la marca.] Para mejorar el #[em engagement] de la estrategia narrativa transmedia, se pueden tener en cuenta los siguientes factores:
 
     .row.mt-5.col-xl-10.m-auto
       .col-xl-4.mb-5.mb-xl-0
@@ -323,7 +323,7 @@
               h5.text-center.mt-4(data-aos="fade-up" style="color:initial;") Segmentación
               p.mt-4(data-aos="fade-up" style="color:initial;") Conocer muy bien el segmento de mercado que se va a abordar y emplear herramientas y contenidos comunicacionales que lo hagan identificarse con la marca.
 
-    p.mt-5(data-aos="fade-up") Es así como en este componente formativo se trabajaron las herramientas para utilizar la aplicación WhatsApp Business y cómo realizar una campaña de narrativa transmedia dirigida a un público objetivo que ya se tiene identificado a partir de palabras claves verificadas por AdWords. También se expusieron técnicas para saber cómo dirigirse al cliente en términos de copy, mensaje y tono, para influir en su experiencia de compra o de servicio. Adicionalmente, se aplicaron herramientas de creación de contenido gratuito, como Canva, para poder crear mejores experiencias narrativas para el cliente; y finalmente, se expusieron los principales conceptos del catálogo de WhatsApp Business, así como la definición y uso del engagement.
+    p.mt-5(data-aos="fade-up") Es así como en este componente formativo se trabajaron las herramientas para utilizar la aplicación #[em WhatsApp Business] y cómo realizar una campaña de narrativa transmedia dirigida a un público objetivo que ya se tiene identificado a partir de palabras claves verificadas por #[em AdWords]. También se expusieron técnicas para saber cómo dirigirse al cliente en términos de #[em copy], mensaje y tono, para influir en su experiencia de compra o de servicio. Adicionalmente, se aplicaron herramientas de creación de contenido gratuito, como #[em Canva], para poder crear mejores experiencias narrativas para el cliente; y finalmente, se expusieron los principales conceptos del catálogo de #[em WhatsApp Business], así como la definición y uso del #[em engagement].
 
 
 

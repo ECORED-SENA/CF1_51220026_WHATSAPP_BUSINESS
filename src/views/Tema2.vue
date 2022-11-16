@@ -11,12 +11,12 @@
       .col-xl-8.mb-xl-0.mb-5(style="place-self:center;")
         p(data-aos="fade-up") Cuando se habla de técnicas narrativas en transmedia o en medios digitales, se refiere al método que se pone en práctica para intervenir en las comunicaciones con el cliente, haciendo uso de recursos digitales tales como posts o mensajes, infografías o imágenes, videos, memes, catálogos, etc. En estas técnicas, predomina el estilo, o la manera de compartir la información, así como las vivencias o experiencias. De igual forma,  está el discurso o la intención de cada una de las publicaciones, mensajes o interacciones a través de los medios digitales. 
         .cajon.color-secundario.p-4.mb-4(style="background-color:#BFF0EA;")
-          p.mb-0(data-aos="fade-up") Aquí entra a jugar el dominio y uso del lenguaje, utilizando jergas, tonos, palabras, emojis y otras técnicas de redacción para lograr hacer que el cliente se identifique con el canal de atención. En este caso, las interacciones por WhatsApp Business deben limitarse a respuestas cortas y mensajes que no se consideren spam, dadas las estrictas políticas anti mensajes no deseados de la compañía. 
+          p.mb-0(data-aos="fade-up") Aquí entra a jugar el dominio y uso del lenguaje, utilizando jergas, tonos, palabras, emojis y otras técnicas de redacción para lograr hacer que el cliente se identifique con el canal de atención. En este caso, las interacciones por #[em WhatsApp Business] deben limitarse a respuestas cortas y mensajes que no se consideren spam, dadas las estrictas políticas anti mensajes no deseados de la compañía. 
       .col-xl-4(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema2/1.png" data-aos="fade-left")
 
-    p.mt-5(data-aos="fade-up") Se deben evitar las barreras en el contexto comunicativo e incentivar el uso de discursos coherentes, que incluyan técnicas de ‘engagement’, o enganche, para el consumidor de la información publicada o compartida. Una de las técnicas narrativas más utilizadas en los medios digitales y medios sociales es el Storytelling, que consiste en crear una historia mediante herramientas transmedia, con el fin de informar, motivar, conocer opiniones, vender, obtener una respuesta o calificación, etc. Esta historia no debe confundirse con hablar sobre qué hace nuestra marca o qué ofrecemos. Cuando se utiliza esta técnica, se deben aportar historias que despierten el interés en los clientes y que aporten en su consumo de contenidos transmedia, algo más allá del contenido corporativo o promocional. Con esta estrategia, el objetivo es crear emociones y un vínculo entre el cliente y la compañía, a través de una narración con imágenes, videos, textos, audios, encuestas y otros elementos.
+    p.mt-5(data-aos="fade-up") Se deben evitar las barreras en el contexto comunicativo e incentivar el uso de discursos coherentes, que incluyan técnicas de ‘#[em engagement]’, o enganche, para el consumidor de la información publicada o compartida. Una de las técnicas narrativas más utilizadas en los medios digitales y medios sociales es el #[em Storytelling], que consiste en crear una historia mediante herramientas transmedia, con el fin de informar, motivar, conocer opiniones, vender, obtener una respuesta o calificación, etc. Esta historia no debe confundirse con hablar sobre qué hace nuestra marca o qué ofrecemos. Cuando se utiliza esta técnica, se deben aportar historias que despierten el interés en los clientes y que aporten en su consumo de contenidos transmedia, algo más allá del contenido corporativo o promocional. Con esta estrategia, el objetivo es crear emociones y un vínculo entre el cliente y la compañía, a través de una narración con imágenes, videos, textos, audios, encuestas y otros elementos.
 
     Separador.mt-5
 
@@ -30,7 +30,7 @@
       .col(style="place-self:center")
         p.mb-0(data-aos="fade-up") Para crear narrativas sólidas, que apelen a grupos considerables de personas, una buena estrategia es apelar a las tendencias y a la cultura de masas. #[br] Se conoce como cultura de masas a aquellas manifestaciones culturales que tienen el potencial de llegar y ser aceptadas por una gran cantidad de personas, ya sea a nivel local, nacional o global.
 
-    p.mt-5(data-aos="fade-up") Cuando se habla de cultura de masas, se involucran conceptos de marketing y publicidad, para alcanzar difusión y convertirse en un producto o estrategia de comunicación masiva. Algunas de las características de la cultura de masas son:
+    p.mt-5(data-aos="fade-up") Cuando se habla de cultura de masas, se involucran conceptos de #[em marketing] y publicidad, para alcanzar difusión y convertirse en un producto o estrategia de comunicación masiva. Algunas de las características de la cultura de masas son:
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4")
       .tarjeta-avatar
@@ -83,7 +83,7 @@
 
     .row.mt-5.p-3(style="background: rgb(255,255,255);background: linear-gradient(90deg, rgba(255,255,255,1) 71%, rgba(203,242,238,1) 71%);")
       .col(style="place-self:center")
-        p.mb-0(data-aos="fade-up") La narrativa transmedia es una técnica de narración mediante la cual el proceso de storytelling se da en diferentes plataformas de redes sociales, para construir un relato llamativo para el cliente. Podría verse como una historia que se cuenta en diferentes capítulos que se encuentran en diferentes formatos: post, tweet, catálogo, video, imagen, audio, etc.   
+        p.mb-0(data-aos="fade-up") La narrativa transmedia es una técnica de narración mediante la cual el proceso de #[em storytelling] se da en diferentes plataformas de redes sociales, para construir un relato llamativo para el cliente. Podría verse como una historia que se cuenta en diferentes capítulos que se encuentran en diferentes formatos: #[em post], #[em tweet], catálogo, video, imagen, audio, etc.   
       .col-auto(style="place-self:center")
         figure
           img(src="@/assets/curso/tema2/9.svg" data-aos="fade-right")
@@ -108,10 +108,10 @@
               a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=7n7G9HL7sC8" target="_blank")
                 span(style="color:#12263F !important") Ver video
 
-    p.mt-5(data-aos="fade-up") #[strong Un ejemplo de esta narrativa sería el siguiente:] cuando se comienza leyendo la historia en un post y/o publicación y, posteriormente, se continúa la misma narración en un video, o cuando se interactúa en los comentarios, se ha participado en una estrategia de narrativa transmedia; inclusive, se puede iniciar leyendo en WhatsApp y de ahí se lleva al lector a otra plataforma, como una página web o un video en YouTube.
+    p.mt-5(data-aos="fade-up") #[strong Un ejemplo de esta narrativa sería el siguiente:] cuando se comienza leyendo la historia en un post y/o publicación y, posteriormente, se continúa la misma narración en un video, o cuando se interactúa en los comentarios, se ha participado en una estrategia de narrativa transmedia; inclusive, se puede iniciar leyendo en #[em WhatsApp] y de ahí se lleva al lector a otra plataforma, como una página #[em web] o un video en YouTube.
 
     .row.cont_2_2.mt-5.pt-5.pb-5(style="position:relative")
-      p(data-aos="fade-up" style="position:relative") #[strong Para integrar el storytelling y la narrativa transmedia, se pueden tener en cuenta los siguientes objetivos:]
+      p(data-aos="fade-up" style="position:relative") #[strong Para integrar el #[em storytelling] y la narrativa transmedia, se pueden tener en cuenta los siguientes objetivos:]
       .col-xl-7.mb-5.mb-xl-0(style="place-self:center")
         ol.lista-ol--cuadro.lista-ol--separador.mt-4(style="position:relative")
           li(data-aos="fade-up") 
@@ -158,7 +158,7 @@
         .col(style="place-self:center")
           p.mb-0(data-aos="fade-up") Para poner en marcha un proceso de creación de narrativa transmedia en redes sociales, se debe limitar a una sola persona o, en su defecto, a un pequeño grupo de personas que intervengan en el proceso. En el último de los casos, se debe procurar contar con un coordinador para dicho equipo. Se recomiendan mínimo tres plataformas o medios diferentes donde se va a distribuir la narrativa. Esto con el fin de aportar más diversidad y originalidad al proyecto o estrategia.
 
-    p.mt-5(data-aos="fade-up") Ejemplos de redes donde se puede llevar a cabo una estrategia transmedia son: Instagram, Facebook y WhatsApp Business. En el caso de Facebook e Instagram, estas cuentan con sus propios Marketplace integrados, que pueden ser utilizados por sus usuarios para comercializar bienes y servicios. Además, también cuentan con mensajería instantánea y herramientas de publicación, tales como stories, posts, reels, eventos, entre otros. Están disponibles prácticamente a nivel mundial, lo cual representa una plaza con gran potencial.
+    p.mt-5(data-aos="fade-up") Ejemplos de redes donde se puede llevar a cabo una estrategia transmedia son: #[em Instagram, Facebook y WhatsApp Business]. En el caso de Facebook e Instagram, estas cuentan con sus propios #[em Marketplace] integrados, que pueden ser utilizados por sus usuarios para comercializar bienes y servicios. Además, también cuentan con mensajería instantánea y herramientas de publicación, tales como #[em stories, posts, reels], eventos, entre otros. Están disponibles prácticamente a nivel mundial, lo cual representa una plaza con gran potencial.
 
     p.mt-4(data-aos="fade-up") #[strong Las ventajas y desventajas de las narrativas en redes sociales son:]
 
@@ -212,9 +212,9 @@
                 | No se puede acceder a la base de datos de clientes.
               li(data-aos="fade-up")
                 i.fas.fa-paper-plane
-                | Mayor exposición a comentarios negativos y spam.
+                | Mayor exposición a comentarios negativos y #[em spam].
 
-    p.mt-5(data-aos="fade-up") Las principales herramientas para la generación de audiencia digital son las redes de Meta (Facebook, Instagram), Google (Maps, YouTube) y, en los últimos meses, el ingreso de TikTok a la competencia. Estas plataformas son plataformas de datos que miden todo y manejan una estadística pormenorizada de cada movimiento que alguien hace en esas redes, logrando conocer datos importantes de diversos tipos: demográficos, de intereses, de conectividad, de hábitos de consumo, gustos, etc. Con esos datos analizados, realizan segmentaciones, perfiles, bases de datos, etc., con los que se logra contactar las personas idóneas a las que se les va a ofrecer un producto o servicio.
+    p.mt-5(data-aos="fade-up") Las principales herramientas para la generación de audiencia digital son las redes de Meta (#[em Facebook, Instagram]), Google (#[em Maps], YouTube) y, en los últimos meses, el ingreso de TikTok a la competencia. Estas plataformas son plataformas de datos que miden todo y manejan una estadística pormenorizada de cada movimiento que alguien hace en esas redes, logrando conocer datos importantes de diversos tipos: demográficos, de intereses, de conectividad, de hábitos de consumo, gustos, etc. Con esos datos analizados, realizan segmentaciones, perfiles, bases de datos, etc., con los que se logra contactar las personas idóneas a las que se les va a ofrecer un producto o servicio.
 
     .row.mt-5
       .col-xl-8.mb-5.mb-xl-0(style="place-self:center")
@@ -226,12 +226,12 @@
 
     .row.mt-5.p-4(style="background-color:#FFD76A;border-radius:10px")
       .col(style="place-self:center")
-        p.mb-0(data-aos="fade-up") Para tenerlo en cuenta: Rockcontent (2019) define las palabras claves así: #[strong “las palabras clave (keywords) son el principal instrumento de una investigación. Son términos compuestos por una o más palabras. Son la forma en cómo un usuario escribe sus dudas en los buscadores, con el fin de obtener respuestas y solucionar sus problemas”.]
+        p.mb-0(data-aos="fade-up") Para tenerlo en cuenta: #[em Rockcontent] (2019) define las palabras claves así: #[strong “las palabras clave (#[em keywords]) son el principal instrumento de una investigación. Son términos compuestos por una o más palabras. Son la forma en cómo un usuario escribe sus dudas en los buscadores, con el fin de obtener respuestas y solucionar sus problemas”.]
       .col-auto(style="place-self:center")
         figure
           img(src="@/assets/curso/tema2/17.svg" data-aos="fade-left")
 
-    p.mt-5(data-aos="fade-up") Por ejemplo, si se tiene una tienda online que vende flores en Colombia y WhatsApp Business, es necesario hacer un análisis comparativo de las palabras clave de búsqueda que utiliza el público en Colombia para buscar flores en los principales motores de búsqueda.
+    p.mt-5(data-aos="fade-up") Por ejemplo, si se tiene una tienda #[em online] que vende flores en Colombia y #[em WhatsApp Business], es necesario hacer un análisis comparativo de las palabras clave de búsqueda que utiliza el público en Colombia para buscar flores en los principales motores de búsqueda.
 
     .row.mt-5.ps-4.pe-4.pt-4.cont_2_3(style="position:relative;")
       .col-xl-4.mb-xl-0.mb-5(style="position:relative")

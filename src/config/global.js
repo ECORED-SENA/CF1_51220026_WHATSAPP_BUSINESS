@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Publicación de contenidos a través de <em>WhatsApp Business</em>',
     descripcionCurso:
-      'WhatsApp Business es una aplicación que está enfocada en prestar el servicio de comunicación entre empresas de diferentes tamaños y sus clientes. Las estrategias de venta de productos en línea pueden potenciarse enormemente con el uso de las herramientas gratuitas que ofrece y que se pueden integrar a estrategias de narrativas transmedia en diferentes medios digitales.',
+      '<em>WhatsApp Business</em> es una aplicación que está enfocada en prestar el servicio de comunicación entre empresas de diferentes tamaños y sus clientes. Las estrategias de venta de productos en línea pueden potenciarse enormemente con el uso de las herramientas gratuitas que ofrece y que se pueden integrar a estrategias de narrativas transmedia en diferentes medios digitales.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -130,7 +130,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.5',
-            titulo: 'Engagement',
+            titulo: '<em>Engagement</em>',
             hash: 't_4_5',
           },
         ],
@@ -270,7 +270,7 @@ export default {
     {
       termino: '<em>Social Media</em>',
       significado:
-        'se refiere a todas las redes y medios que han surgido en los últimos años con el Internet, tales como Instagram, Facebook y WhatsApp.',
+        'se refiere a todas las redes y medios que han surgido en los últimos años con el Internet, tales como <em>Instagram, Facebook</em> y <em>WhatsApp</em>.',
     },
     {
       termino: '<em>Spam</em>',
@@ -287,7 +287,7 @@ export default {
     {
       tema: '<em>WhatsApp Business</em>',
       referencia:
-        'Cherre, I. (2021). ¿Cuáles son las diferencias entre WhatsApp y WhatsApp Business? Computer Hoy.',
+        'Cherre, I. (2021). ¿Cuáles son las diferencias entre <em>WhatsApp</em> y <em>WhatsApp Business</em>? Computer Hoy.',
       tipo: 'Artículo',
       link:
         'https://computerhoy.com/noticias/tecnologia/cuales-son-diferencias-whatsapp-whatsapp-business-897663',
@@ -295,21 +295,21 @@ export default {
     {
       tema: '<em>WhatsApp Business</em>',
       referencia:
-        'Snitcofsky, A. (2022). Qué es la API de WhatsApp Business y cómo conseguirla. Cliengo.',
+        '<em>Snitcofsky</em>, A. (2022). Qué es la API de <em>WhatsApp Business</em> y cómo conseguirla. Cliengo.',
       tipo: 'Artículo',
       link: 'https://blog.cliengo.com/WhatsApp-business-api/',
     },
     {
       tema: '<em>WhatsApp Business</em>',
       referencia:
-        'Yepes, M. (2022). Mensajes automáticos en WhatsApp Business: qué son, para qué sirven y cómo usarlos. Cliengo.',
+        'Yepes, M. (2022). Mensajes automáticos en <em>WhatsApp Business</em>: qué son, para qué sirven y cómo usarlos. Cliengo.',
       tipo: 'Artículo',
       link: 'https://blog.cliengo.com/mensajes-automaticos-WhatsApp-business/',
     },
     {
       tema: 'Narrativa transmedia',
       referencia:
-        'Pastrana, C. (2019). Narrativas transmedia y Storytelling: El arte de contar. IEBS. ',
+        'Pastrana, C. (2019). Narrativas transmedia y <em>Storytelling</em>: El arte de contar. IEBS. ',
       tipo: 'Artículo',
       link:
         'https://www.iebschool.com/blog/que-es-narrativa-transmedia-social-media-social-media/',
@@ -405,50 +405,37 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Carmen Alicia Martínez Torres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
+        nombre: 'Lina Marcela Pérez Manchego',
+        cargo: 'Validación Ilustración',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Ilustración',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guion audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Mayra Alejandra Alvarez',
+        cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },

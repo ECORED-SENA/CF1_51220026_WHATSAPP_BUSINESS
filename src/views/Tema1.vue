@@ -12,8 +12,8 @@
         figure
           img(src="@/assets/curso/tema1/1.png" data-aos="fade-right")
       .col-lg-8(style="place-self:center;")
-        p(data-aos="fade-up") WhatsApp se define como una plataforma de mensajería gratuita, que permite enviar y recibir mensajes de texto, mensajes multimedia, realizar llamadas de voz y de video, videoconferencias, compartir documentos, habilitar la opción de localización, entre otros usos. Tiene más de dos mil millones de usuarios activos en todo el mundo y, actualmente, es soportada por los sistemas operativos iOS y Android para dispositivos móviles, teléfonos celulares y computadoras personales. Este servicio, aunque gratuito, exige tener un número móvil activo para su suscripción y utilización.
-        p.mt-4(data-aos="fade-up") Esta plataforma de mensajería tiene el potencial de albergar a millones de clientes potenciales alrededor del mundo, sin embargo, los territorios donde es más popular son Latinoamérica, India y algunas partes de Europa y Asia. WhatsApp Business, por su parte, es una app standalone de la misma compañía, pero enfocada en prestar el servicio de comunicación entre empresas de diferentes tamaños y sus clientes. Existen dos versiones: la app y la API. Estas dos aplicaciones funcionan sobre la misma base y, por eso, se pueden enviar mensajes entre WhatsApp y WhatsApp Business de manera imperceptible. A continuación, se ven los detalles de las dos versiones de WhatsApp Business:
+        p(data-aos="fade-up") #[em WhatsApp] se define como una plataforma de mensajería gratuita, que permite enviar y recibir mensajes de texto, mensajes multimedia, realizar llamadas de voz y de video, videoconferencias, compartir documentos, habilitar la opción de localización, entre otros usos. Tiene más de dos mil millones de usuarios activos en todo el mundo y, actualmente, es soportada por los sistemas operativos iOS y #[em Android] para dispositivos móviles, teléfonos celulares y computadoras personales. Este servicio, aunque gratuito, exige tener un número móvil activo para su suscripción y utilización.
+        p.mt-4(data-aos="fade-up") Esta plataforma de mensajería tiene el potencial de albergar a millones de clientes potenciales alrededor del mundo, sin embargo, los territorios donde es más popular son Latinoamérica, India y algunas partes de Europa y Asia. #[em WhatsApp Business], por su parte, es una app #[em standalone] de la misma compañía, pero enfocada en prestar el servicio de comunicación entre empresas de diferentes tamaños y sus clientes. Existen dos versiones: la app y la API. Estas dos aplicaciones funcionan sobre la misma base y, por eso, se pueden enviar mensajes entre #[em WhatsApp] y #[em WhatsApp Business] de manera imperceptible. A continuación, se ven los detalles de las dos versiones de #[em WhatsApp Business]:
 
     .row.mt-5.col-xl-8.m-auto
       .col-xl-6.mb-5.mb-xl-0
@@ -71,7 +71,7 @@
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Figura 1.
-      span Diferencias entre WhatsApp web y la API de WhatsApp
+      span Diferencias entre #[em WhatsApp web] y la API de #[em WhatsApp]
 
     .row.mt-5.col-xl-10.m-auto
       .col-xl-6.mb-5.mb-xl-0
@@ -104,10 +104,10 @@
             ol.lista-ol
               li(data-aos="fade-up")
                 span.text-bold a. 
-                | WhatsApp API o Business Platform se enfoca en medianas y grandes empresas, que requieren mayor robustez en la operación de sus comunicaciones con los clientes, porque manejan cientos o miles de conversaciones simultáneas con sus clientes. API traduce Application Program Interface o, en español, Interfaz de Programación de Aplicaciones.
+                | #[em WhatsApp API] o #[em Business Platform] se enfoca en medianas y grandes empresas, que requieren mayor robustez en la operación de sus comunicaciones con los clientes, porque manejan cientos o miles de conversaciones simultáneas con sus clientes. API traduce #[em Application Program Interface] o, en español, Interfaz de Programación de Aplicaciones.
               li(data-aos="fade-up")
                 span.text-bold b. 
-                | Se debe contratar por medio de las empresas Partners Oficiales de WhatsApp. La empresa aliada de WhatsApp se encarga de la propuesta comercial.
+                | Se debe contratar por medio de las empresas #[em Partners Oficiales de WhatsApp]. La empresa aliada de #[em WhatsApp] se encarga de la propuesta comercial.
               li(data-aos="fade-up")
                 span.text-bold c. 
                 |  Las respuestas las hace la empresa aliada y tiene un plazo máximo de 24 horas para ello, pero, en realidad, la respuesta es casi inmediata.
@@ -122,14 +122,14 @@
       .p-2(style="background-color:#FFD76A;")
         h5.mb-0(data-aos="fade-up") Creación de perfil empresarial
 
-    p(data-aos="fade-up") Para crear un perfil empresarial en WhatsApp Business, es necesario seguir los siguientes pasos:
+    p(data-aos="fade-up") Para crear un perfil empresarial en #[em WhatsApp Business], es necesario seguir los siguientes pasos:
 
     .tarjeta.p-5.mt-5(style="background-color:#FFF9E9;")
       SlyderA(tipo="b")
         .row
           .col-lg-4.mb-4.mb-lg-0
             h5 Descargar la aplicación
-            p Se dirige a la tienda de aplicaciones de su dispositivo, la busca como WhatsApp Business y descarga la aplicación. Es importante no olvidar abrir la aplicación apenas esta se descargue para asegurar el registro exitoso.
+            p Se dirige a la tienda de aplicaciones de su dispositivo, la busca como #[em WhatsApp Business] y descarga la aplicación. Es importante no olvidar abrir la aplicación apenas esta se descargue para asegurar el registro exitoso.
           .col-lg-8
             figure
               img(src='@/assets/curso/tema1/6.svg')
@@ -143,28 +143,28 @@
               img(src='@/assets/curso/tema1/7.svg')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Configurar una nueva cuenta de WhatsApp Business
+            h5 Configurar una nueva cuenta de #[em WhatsApp Business]
             p Configure la cuenta por medio de un número telefónico. Se recomienda que este número sea solo para la empresa.
           .col-lg-8
             figure
               img(src='@/assets/curso/tema1/8.svg')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Verificar el número de teléfono en WhatsApp Business
+            h5 Verificar el número de teléfono en #[em WhatsApp Business]
             p Por medio de un mensaje de texto, se acepta y verifica el número del teléfono que está registrando. Se puede usar un teléfono de otro país a pesar de no estar allá.
           .col-lg-8
             figure
               img(src='@/assets/curso/tema1/9.svg')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 WhatsApp personal a WhatsApp Business (opcional)
-            p Usted puede convertir su cuenta personal en empresarial; para ello, se deberá dar autorización mediante la cuenta de WhatsApp personal; luego de este paso, toda la información de la cuenta personal se habrá migrado a la cuenta Business. 
+            h5 #[em WhatsApp] personal a #[em WhatsApp Business] (opcional)
+            p Usted puede convertir su cuenta personal en empresarial; para ello, se deberá dar autorización mediante la cuenta de #[em WhatsApp] personal; luego de este paso, toda la información de la cuenta personal se habrá migrado a la cuenta #[em Business]. 
           .col-lg-8
             figure
               img(src='@/assets/curso/tema1/10.svg')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Configurar perfil empresarial de WhatsApp Business
+            h5 Configurar perfil empresarial de #[em WhatsApp Business]
             p Cuando se han completado los pasos anteriores, es tiempo de configurar el perfil empresarial. En esta ventana, se podrán rellenar los detalles que describirán a qué se dedica o qué vende la compañía. 
           .col-lg-8
             figure
@@ -172,18 +172,18 @@
 
     .mt-5.mb-5(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") Comunicación de mensajes social media
+        h5.mb-0(data-aos="fade-up") Comunicación de mensajes #[em social media]
 
     .row
       .col-lg-4(style="place-self:center")
         figure
           img(src="@/assets/curso/tema1/13.png" data-aos="fade-right")
       .col-lg-8(style="place-self:center")
-        p(data-aos="fade-up") Cuando se habla de social media, se hace referencia a actividades de comunicación, expresión y publicación que integran la tecnología, la interacción de personas en forma de mensajes multimedia, tales como chat, conversaciones, textos, fotografías, imágenes, gifs, videos, memes y audios.
+        p(data-aos="fade-up") Cuando se habla de #[em social media], se hace referencia a actividades de comunicación, expresión y publicación que integran la tecnología, la interacción de personas en forma de mensajes multimedia, tales como chat, conversaciones, textos, fotografías, imágenes, gifs, videos, memes y audios.
         .cajon.color-acento-contenido.p-4.mb-4(style="background-color:#FFF5D9;")
-          p.mb-0(data-aos="fade-up") La comunicación que se da a partir de dichas actividades dentro del social media cumple diferentes propósitos y funciones, dependiendo de la plataforma virtual en la que se dé. La comunicación, en este caso, se da de manera espontánea y natural, sin embargo, hoy en día son más las plataformas que integran otras herramientas de promoción y ventas disponibles para las empresas.
+          p.mb-0(data-aos="fade-up") La comunicación que se da a partir de dichas actividades dentro del #[em social media] cumple diferentes propósitos y funciones, dependiendo de la plataforma virtual en la que se dé. La comunicación, en este caso, se da de manera espontánea y natural, sin embargo, hoy en día son más las plataformas que integran otras herramientas de promoción y ventas disponibles para las empresas.
 
-    p.mt-5(data-aos="fade-up") Los medios sociales de comunicación tienen diferencias comparados con los medios de comunicación industrial, como la prensa impresa, la TV, la radio, periódicos, canales de televisión y emisoras de radio. Los social media, o medios sociales, utilizan herramientas que permiten a cualquier persona que accede a ellos publicar y tener acceso al contenido o, incluso, utilizar servicios complementarios de mensajería. Tal es el caso de WhatsApp, que, a 2021, tiene cerca de dos mil millones de usuarios a nivel mundial, como lo grafica Fanego (2021): 
+    p.mt-5(data-aos="fade-up") Los medios sociales de comunicación tienen diferencias comparados con los medios de comunicación industrial, como la prensa impresa, la TV, la radio, periódicos, canales de televisión y emisoras de radio. Los #[em social media], o medios sociales, utilizan herramientas que permiten a cualquier persona que accede a ellos publicar y tener acceso al contenido o, incluso, utilizar servicios complementarios de mensajería. Tal es el caso de #[em WhatsApp], que, a 2021, tiene cerca de dos mil millones de usuarios a nivel mundial, como lo grafica Fanego (2021): 
 
     .pt-4.pb-5.mt-5(style="background-color:#D9F6F3;")
       .col-xl-8.m-auto
@@ -202,7 +202,7 @@
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Amabilidad de uso con el usuario")
         .col-lg-7.mb-4.mb-lg-0
-          p Gran parte de los medios sociales están diseñados para que cualquier persona pueda utilizarlos. Tal es el caso de WhatsApp y WhatsApp Web. Asimismo, las actualizaciones están destinadas a mejorar la experiencia y facilidad de uso. 
+          p Gran parte de los medios sociales están diseñados para que cualquier persona pueda utilizarlos. Tal es el caso de #[em WhatsApp] y #[em WhatsApp Web]. Asimismo, las actualizaciones están destinadas a mejorar la experiencia y facilidad de uso. 
         .col-lg-5
           figure
             img(src='@/assets/curso/tema1/15.png')
@@ -214,13 +214,13 @@
             img(src='@/assets/curso/tema1/16.png')
       .row(titulo="Gratuidad")
         .col-lg-7.mb-4.mb-lg-0
-          p La gran mayoría de los medios sociales son gratuitos y no tienen ningún costo por el uso de sus características básicas. Esto permite que más personas puedan acceder a ellos. En el caso de WhatsApp, tanto su versión personal como su aplicación de WhatsApp Business son gratuitas.
+          p La gran mayoría de los medios sociales son gratuitos y no tienen ningún costo por el uso de sus características básicas. Esto permite que más personas puedan acceder a ellos. En el caso de #[em WhatsApp], tanto su versión personal como su aplicación de #[em WhatsApp Business] son gratuitas.
         .col-lg-5
           figure
             img(src='@/assets/curso/tema1/17.png')
       .row(titulo="Tiempo real")
         .col-lg-7.mb-4.mb-lg-0
-          p Los medios sociales pueden proveer respuestas o interacciones inmediatas, sin necesidad de esperar mucho tiempo por respuestas comerciales, dudas, preguntas, casos de servicio al cliente, etc. En el caso de WhatsApp y WhatsApp Business, su finalidad es la mensajería instantánea, por cuanto la aplicación provee herramientas y opciones de notificaciones para no perder la conectividad con el cliente cuando se le está atendiendo. 
+          p Los medios sociales pueden proveer respuestas o interacciones inmediatas, sin necesidad de esperar mucho tiempo por respuestas comerciales, dudas, preguntas, casos de servicio al cliente, etc. En el caso de #[em WhatsApp] y #[em WhatsApp Business], su finalidad es la mensajería instantánea, por cuanto la aplicación provee herramientas y opciones de notificaciones para no perder la conectividad con el cliente cuando se le está atendiendo. 
         .col-lg-5
           figure
             img(src='@/assets/curso/tema1/18.png')
@@ -232,20 +232,20 @@
         figure
           img(src="@/assets/curso/tema1/19.svg" data-aos="fade-left")
 
-    p.mt-5(data-aos="fade-up") Asimismo, es de gran importancia conocer cuál es la finalidad de apertura de un canal de interacción con el cliente. Algunos ejemplos de ellas son: presentar los productos y servicios, abrir un canal de atención al cliente, brindar soporte técnico, entre otras. Es importante resaltar la importancia de WhatsApp en Latinoamérica, con números realmente asombrosos, como lo dice Artear (2022): #[strong “con 12 años de existencia, el servicio de mensajería instantánea WhatsApp logró modificar y revolucionar la industria de la comunicación, porque se convirtió en la aplicación que más descargas tiene a nivel mundial desde 2018”.]
+    p.mt-5(data-aos="fade-up") Asimismo, es de gran importancia conocer cuál es la finalidad de apertura de un canal de interacción con el cliente. Algunos ejemplos de ellas son: presentar los productos y servicios, abrir un canal de atención al cliente, brindar soporte técnico, entre otras. Es importante resaltar la importancia de #[em WhatsApp] en Latinoamérica, con números realmente asombrosos, como lo dice Artear (2022): #[strong “con 12 años de existencia, el servicio de mensajería instantánea #[em WhatsApp] logró modificar y revolucionar la industria de la comunicación, porque se convirtió en la aplicación que más descargas tiene a nivel mundial desde 2018”.]
 
     .row.mt-5.p-3(style="background: rgb(166,233,226);background: linear-gradient(90deg, rgba(166,233,226,1) 29%, rgba(255,255,255,1) 29%);")
       .col-auto(style="place-self:center")
         figure
           img(src="@/assets/curso/tema1/20.svg" data-aos="fade-right")
       .col(style="place-self:center")
-        p.mb-0(data-aos="fade-up") Según una encuesta que la Corporación Latinobarómetro realizó en 18 países de América Latina, el 64 % de la población del continente utiliza la app. Este porcentaje varía dependiendo del país en el que se ponga la lupa”. En Colombia, según el MinTIC (2021), WhatsApp es la aplicación con mayor crecimiento durante la pandemia.
+        p.mb-0(data-aos="fade-up") Según una encuesta que la Corporación Latinobarómetro realizó en 18 países de América Latina, el 64 % de la población del continente utiliza la app. Este porcentaje varía dependiendo del país en el que se ponga la lupa”. En Colombia, según el MinTIC (2021), #[em WhatsApp] es la aplicación con mayor crecimiento durante la pandemia.
 
     .mt-5.mb-4(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
         h5.mb-0(data-aos="fade-up") Creación de respuestas automatizadas
 
-    p(data-aos="fade-up") Para lograr estar en comunicación con los clientes, ya sea para finalizar una venta, atender un caso de servicio al cliente o proporcionar asesoría técnica, WhatsApp Business ofrece al usuario la posibilidad de enviar mensajes automáticos. Estos mensajes permiten responder al cliente así no haya personal disponible, manteniendo al cliente conectado, lo cual es beneficioso para la sensación de satisfacción durante el proceso de atención al cliente. Estos mensajes, a manera inicial, se componen de mensaje de bienvenida y mensaje de ausencia, como se puede observar en el siguiente video:
+    p(data-aos="fade-up") Para lograr estar en comunicación con los clientes, ya sea para finalizar una venta, atender un caso de servicio al cliente o proporcionar asesoría técnica, #[em WhatsApp Business] ofrece al usuario la posibilidad de enviar mensajes automáticos. Estos mensajes permiten responder al cliente así no haya personal disponible, manteniendo al cliente conectado, lo cual es beneficioso para la sensación de satisfacción durante el proceso de atención al cliente. Estos mensajes, a manera inicial, se componen de mensaje de bienvenida y mensaje de ausencia, como se puede observar en el siguiente video:
 
     p.mt-5 #[strong Respuestas Bienvenida Ausencia]
 
@@ -278,8 +278,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Enlace web
-              p.text-small Con la opción anteriormente vista y la claridad de cuáles cosas se pueden resolver de manera rápida, se le invita a revisar el siguiente vínculo, que le explica, de manera puntual, según WhatsApp, cómo se configura de la mejor manera esta opción
+              h4.mb-1 Enlace #[em web]
+              p.text-small Con la opción anteriormente vista y la claridad de cuáles cosas se pueden resolver de manera rápida, se le invita a revisar el siguiente vínculo, que le explica, de manera puntual, según #[em WhatsApp], cómo se configura de la mejor manera esta opción
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://faq.whatsapp.com/2740839775981177/?locale=es_LA" target="_blank")
                 span(style="color:#12263F !important") Enlace web
