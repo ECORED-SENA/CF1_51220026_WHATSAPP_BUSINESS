@@ -13,35 +13,35 @@
       SlyderA(tipo="b")
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Publique contenido llamativo
+            h4 Publique contenido llamativo
             p Publicar textos especializados, que tengan temáticas relacionadas con los productos que se están vendiendo. Por ejemplo, si se tiene un negocio online de flores, abrir un #[em blog] que hable acerca de las principales técnicas de floricultura, o de las tendencias de arreglos florales, o, en general, de temas relacionados con el mundo de las flores. Naturalmente, los motores de búsqueda comenzarán a relacionar este contenido. Dentro de los #[em blogs], incluir enlaces a las cuentas de #[em WhatsApp Business], a través de las cuales el cliente podrá contactar directamente a la compañía para obtener más información.
           .col-lg-8
             figure
               img(src='@/assets/curso/tema3/1.png')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Consulte las palabras clave
+            h4 Consulte las palabras clave
             p Para redactar textos y títulos más impactantes, que tengan un mayor reconocimiento por los buscadores y algoritmos, es de mucha importancia consultar los términos más buscados en buscadores como Google y relacionarlos con el producto a ofrecer, para así asegurar un buen posicionamiento. 
           .col-lg-8
             figure
               img(src='@/assets/curso/tema3/2.png')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Use llamados a la acción a #[em WhatsApp]
+            h4 Use llamados a la acción a #[em WhatsApp]
             p Los llamados a la acción son botones o textos llamativos llamando al cliente a tomar la decisión de acercarse más al producto que se ofrece. Ejemplos de ellos son botones grandes y llamativos en los #[em landing pages, newsletters], redes sociales o portales de venta, que invitan al cliente a contactar a la compañía a través del #[em WhatsApp Business]. 
           .col-lg-8
             figure
               img(src='@/assets/curso/tema3/3.png')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Renueve el contenido
+            h4 Renueve el contenido
             p Es importante generar contenido nuevo para cada plan de narrativa transmedia y posicionamiento en redes sociales y no ‘reciclar’ o repetir contenido antiguo. Esto contribuirá a una mayor aceptación por parte del algoritmo de las plataformas y apps. También es de gran ayuda hacer referencia a publicaciones que se encuentren alojadas en apps diferentes a la cual se está publicando.
           .col-lg-8
             figure
               img(src='@/assets/curso/tema3/4.png')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Realice segmentación de destinatarios de #[em newsletter]
+            h4 Realice segmentación de destinatarios de #[em newsletter]
             p Al utilizar componentes de segmentación, como características demográficas, edad, género, o incluso perfilamientos de clientes más específicos, garantizará que el contenido tenga mayor relevancia y vaya dirigido a quien realmente le interese. Esto además reducirá la percepción de que los comunicados enviados sean #[em spam] o correo no deseado. Es importante prestar atención a esto, dado que los motores de búsqueda pueden confundir algunas de las palabras clave con términos de #[em spam], al igual que el #[em Whatsapp Business], que tiene una estricta política #[em antispam].
           .col-lg-8
             figure
@@ -56,7 +56,7 @@
       .col-xl-4.mb-5.mb-xl-0(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema3/6.png" data-aos="fade-right")
-      .col-xl-8
+      .col-xl-8(style="place-self:center")
         p(data-aos="fade-up") Para poder dominar una buena propuesta gramatical, es necesario conocer el concepto de #[em copy]. El #[em copy] se define como #[strong un texto o un conjunto de textos creativos que se emplean en mercadeo, publicidad y procesos de comunicación y narrativas transmedia con la finalidad de transmitir un mensaje al cliente de cara a la venta, promoción o información de un producto, servicio o soporte] (40defiebre, s. f.).
         p.mt-4(data-aos="fade-up") El #[em copy] es el texto que se redacta para comunicar el valor agregado de la compañía. Este se relaciona también con el tono que utilizan asesores de venta o soporte técnico y que tiene que estar alineado con la estrategia comunicativa de la compañía. Se recomienda que estos textos sean creados por un experto en redacción creativa y mercadotecnia. Sin embargo, de no contar con un profesional en este campo, es necesario estudiar a la competencia y los principales ejemplos de técnicas comunicacionales y narrativas para el producto, servicio o soporte que se está ofreciendo.
 
@@ -64,39 +64,39 @@
 
     .row.mt-4
       .row.m-0.col-lg-4.mb-4.mb-lg-0
-        .col-auto.p-3(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
+        .col-auto.p-3.d-flex.align-items-center(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
           figure
-            img(src="@/assets/curso/tema3/7.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema3/7.svg" data-aos="fade-right" style="width:60px;")
         .col.p-3.d-flex.align-items-center(style="background-color:#FAEBCD;border-top-right-radius:10px;border-bottom-right-radius:10px;")
           p.mb-0(data-aos="fade-up") Amabilidad, recuerde que lo primero es el respeto.
       .row.m-0.col-lg-4.mb-4.mb-lg-0
-        .col-auto.p-3(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
+        .col-auto.p-3.d-flex.align-items-center(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
           figure
-            img(src="@/assets/curso/tema3/8.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema3/8.svg" data-aos="fade-right" style="width:60px;")
         .col.p-3.d-flex.align-items-center(style="background-color:#FAEBCD;border-top-right-radius:10px;border-bottom-right-radius:10px;")
           p.mb-0(data-aos="fade-up") ¿Se hablará de usted o de tú? (Formalidad vs. cercanía)
       .row.m-0.col-lg-4.mb-lg-0
-        .col-auto.p-3(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
+        .col-auto.p-3.d-flex.align-items-center(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
           figure
-            img(src="@/assets/curso/tema3/9.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema3/9.svg" data-aos="fade-right" style="width:60px;")
         .col.p-3.d-flex.align-items-center(style="background-color:#FAEBCD;border-top-right-radius:10px;border-bottom-right-radius:10px;")
           p.mb-0(data-aos="fade-up") Tono general: serio, divertido, joven, solemne, educativo, etc.
       .row.m-0.col-lg-4.mb-lg-0.mt-4
-        .col-auto.p-3(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
+        .col-auto.p-3.d-flex.align-items-center(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
           figure
-            img(src="@/assets/curso/tema3/10.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema3/10.svg" data-aos="fade-right" style="width:60px;")
         .col.p-3.d-flex.align-items-center(style="background-color:#FAEBCD;border-top-right-radius:10px;border-bottom-right-radius:10px;")
           p.mb-0(data-aos="fade-up") Interacción, comunicación y sección de ayuda durante el proceso de compra.
       .row.m-0.col-lg-4.mb-lg-0.mt-4
-        .col-auto.p-3(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
+        .col-auto.p-3.d-flex.align-items-center(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
           figure
-            img(src="@/assets/curso/tema3/11.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema3/11.svg" data-aos="fade-right" style="width:60px;")
         .col.p-3.d-flex.align-items-center(style="background-color:#FAEBCD;border-top-right-radius:10px;border-bottom-right-radius:10px;")
           p.mb-0(data-aos="fade-up") Claridad, cantidad y calidad de la información disponible durante el proceso de atención.
       .row.m-0.col-lg-4.mb-lg-0.mt-4
-        .col-auto.p-3(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
+        .col-auto.p-3.d-flex.align-items-center(style="background-color:#00C1AB;border-top-left-radius:10px;border-bottom-left-radius:10px;")
           figure
-            img(src="@/assets/curso/tema3/12.svg" data-aos="fade-right")
+            img(src="@/assets/curso/tema3/12.svg" data-aos="fade-right" style="width:60px;")
         .col.p-3.d-flex.align-items-center(style="background-color:#FAEBCD;border-top-right-radius:10px;border-bottom-right-radius:10px;")
           p.mb-0(data-aos="fade-up") Hacer sentir al cliente que se le está comprendiendo de manera correcta. 
 
@@ -202,11 +202,11 @@
             p Contenido de información general, infografías, guías de soporte, solución a problemas comunes, etc.
 
     .row.mt-5.p-4(style="background-color:#FFD76A;border-radius:10px")
-      .col(style="place-self:center")
-        p.mb-0(data-aos="fade-up") Este concepto es tan viral que no solo se usa por empresas y #[em WhatsApp] corporativo, muchas personas lo usan para informar a su audiencia de lo que están haciendo, a través del #[em WhatsApp] persona. ¿Alguna vez ha publicado un estado de #[em WhatsApp] en el que cuente algo?
       .col-auto(style="place-self:center")
         figure
-          img(src="@/assets/curso/tema3/25.svg" data-aos="fade-left") 
+          img(src="@/assets/curso/tema3/25.svg" data-aos="fade-right") 
+      .col(style="place-self:center")
+        p.mb-0(data-aos="fade-up") Este concepto es tan viral que no solo se usa por empresas y #[em WhatsApp] corporativo, muchas personas lo usan para informar a su audiencia de lo que están haciendo, a través del #[em WhatsApp] persona. ¿Alguna vez ha publicado un estado de #[em WhatsApp] en el que cuente algo?
 
     p.mt-5(data-aos="fade-up") Tanto la aplicación de #[em WhatsApp] personal como la #[em WhatsApp Business App] cuentan con la herramienta de #[em feed] o #[em status]. #[strong A continuación, se detallarán algunas instrucciones para utilizar el #[em feed] de noticias, #[em status] o #[em WhatsApp stories]:]
 
@@ -255,7 +255,7 @@
                 img(src="@/assets/curso/tema3/31.png")
             .col-lg-8
               p Los consumidores y clientes están en constante búsqueda de autenticidad y originalidad en las marcas que consumen. Es necesario compartir historias de #[em WhatsApp] que reflejen la identidad de marca y originalidad.
-      .col-xl-4(style="place-self:end")
+      .col-xl-4.col-6.m-auto(style="place-self:end")
         figure
           img(src="@/assets/curso/tema3/32.svg" data-aos="fade-left") 
 

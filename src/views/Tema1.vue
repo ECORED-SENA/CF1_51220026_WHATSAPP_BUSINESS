@@ -79,7 +79,7 @@
           .pb-4(style="background: rgb(255,215,106);background: linear-gradient(360deg, rgba(255,215,106,1) 73%, rgba(255,255,255,1) 73%);")
             figure.col-6.m-auto
               img(src="@/assets/curso/tema1/4.svg" data-aos="zoom-in-up")
-            h5.mb-0.text-center.mt-4(data-aos="fade-up") #[em WhatsApp Business App]
+            h4.mb-0.text-center.mt-4(data-aos="fade-up") #[em WhatsApp Business App]
           .p-4.pt-4
             ol.lista-ol
               li(data-aos="fade-up")
@@ -99,28 +99,28 @@
           .pb-4(style="background: rgb(0,193,171);background: linear-gradient(360deg, rgba(0,193,171,1) 73%, rgba(255,255,255,1) 73%);")
             figure.col-6.m-auto
               img(src="@/assets/curso/tema1/5.svg" data-aos="zoom-in-up")
-            h5.mb-0.text-center.mt-4(data-aos="fade-up") #[em WhatsApp Business API]
+            h4.mb-0.text-center.mt-4(data-aos="fade-up") #[em WhatsApp Business API]
           .p-4.pt-4
             ol.lista-ol
-              li(data-aos="fade-up")
+              li.d-block(data-aos="fade-up")
                 span.text-bold a. 
                 | #[em WhatsApp API] o #[em Business Platform] se enfoca en medianas y grandes empresas, que requieren mayor robustez en la operación de sus comunicaciones con los clientes, porque manejan cientos o miles de conversaciones simultáneas con sus clientes. API traduce #[em Application Program Interface] o, en español, Interfaz de Programación de Aplicaciones.
-              li(data-aos="fade-up")
+              li.d-block(data-aos="fade-up")
                 span.text-bold b. 
                 | Se debe contratar por medio de las empresas #[em Partners Oficiales de WhatsApp]. La empresa aliada de #[em WhatsApp] se encarga de la propuesta comercial.
-              li(data-aos="fade-up")
+              li.d-block(data-aos="fade-up")
                 span.text-bold c. 
                 |  Las respuestas las hace la empresa aliada y tiene un plazo máximo de 24 horas para ello, pero, en realidad, la respuesta es casi inmediata.
-              li(data-aos="fade-up")
+              li.d-block(data-aos="fade-up")
                 span.text-bold d. 
                 |  Gran cantidad de las respuestas son automatizadas.
-              li(data-aos="fade-up")
+              li.d-block(data-aos="fade-up")
                 span.text-bold e. 
                 |  La empresa subcontratada se encarga de las mediciones y lectura de métricas, entregando un informe por periodo.
 
     .mt-5.mb-4(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") Creación de perfil empresarial
+        h4.mb-0(data-aos="fade-up") Creación de perfil empresarial
 
     p(data-aos="fade-up") Para crear un perfil empresarial en #[em WhatsApp Business], es necesario seguir los siguientes pasos:
 
@@ -128,14 +128,14 @@
       SlyderA(tipo="b")
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Descargar la aplicación
+            h4 Descargar la aplicación
             p Se dirige a la tienda de aplicaciones de su dispositivo, la busca como #[em WhatsApp Business] y descarga la aplicación. Es importante no olvidar abrir la aplicación apenas esta se descargue para asegurar el registro exitoso.
           .col-lg-8
             figure
               img(src='@/assets/curso/tema1/6.svg')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Aceptar los términos y condiciones
+            h4 Aceptar los términos y condiciones
             p Luego de leer los términos y condiciones, se deberá aceptar mediante el botón indicado y, posteriormente, presionar “continuar”. Dichos términos y condiciones pueden consultarse en el siguiente enlace: 
             p.mt-4 #[a(style="color:#0876FF;" href="https://www.whatsapp.com/legal/business-policy/?lang=es" target="_blank") https://www.whatsapp.com/legal/business-policy/?lang=es]
           .col-lg-8
@@ -143,28 +143,28 @@
               img(src='@/assets/curso/tema1/7.svg')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Configurar una nueva cuenta de #[em WhatsApp Business]
+            h4 Configurar una nueva cuenta de #[em WhatsApp Business]
             p Configure la cuenta por medio de un número telefónico. Se recomienda que este número sea solo para la empresa.
           .col-lg-8
             figure
               img(src='@/assets/curso/tema1/8.svg')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Verificar el número de teléfono en #[em WhatsApp Business]
+            h4 Verificar el número de teléfono en #[em WhatsApp Business]
             p Por medio de un mensaje de texto, se acepta y verifica el número del teléfono que está registrando. Se puede usar un teléfono de otro país a pesar de no estar allá.
           .col-lg-8
             figure
               img(src='@/assets/curso/tema1/9.svg')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 #[em WhatsApp] personal a #[em WhatsApp Business] (opcional)
+            h4 #[em WhatsApp] personal a #[em WhatsApp Business] (opcional)
             p Usted puede convertir su cuenta personal en empresarial; para ello, se deberá dar autorización mediante la cuenta de #[em WhatsApp] personal; luego de este paso, toda la información de la cuenta personal se habrá migrado a la cuenta #[em Business]. 
           .col-lg-8
             figure
               img(src='@/assets/curso/tema1/10.svg')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Configurar perfil empresarial de #[em WhatsApp Business]
+            h4 Configurar perfil empresarial de #[em WhatsApp Business]
             p Cuando se han completado los pasos anteriores, es tiempo de configurar el perfil empresarial. En esta ventana, se podrán rellenar los detalles que describirán a qué se dedica o qué vende la compañía. 
           .col-lg-8
             figure
@@ -172,7 +172,7 @@
 
     .mt-5.mb-5(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") Comunicación de mensajes #[em social media]
+        h4.mb-0(data-aos="fade-up") Comunicación de mensajes #[em social media]
 
     .row
       .col-lg-4(style="place-self:center")
@@ -186,39 +186,40 @@
     p.mt-5(data-aos="fade-up") Los medios sociales de comunicación tienen diferencias comparados con los medios de comunicación industrial, como la prensa impresa, la TV, la radio, periódicos, canales de televisión y emisoras de radio. Los #[em social media], o medios sociales, utilizan herramientas que permiten a cualquier persona que accede a ellos publicar y tener acceso al contenido o, incluso, utilizar servicios complementarios de mensajería. Tal es el caso de #[em WhatsApp], que, a 2021, tiene cerca de dos mil millones de usuarios a nivel mundial, como lo grafica Fanego (2021): 
 
     .pt-4.pb-5.mt-5(style="background-color:#D9F6F3;")
-      .col-xl-8.m-auto
+      .col-xl-10.m-auto
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
           span  Usuarios diferentes plataformas 2021
+      .col-xl-8.m-auto
         figure
           img(src="@/assets/curso/tema1/14.svg" data-aos="zoom-in-up")
 
     .mt-5.mb-4(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") Interacción con la audiencia
+        h4.mb-0(data-aos="fade-up") Interacción con la audiencia
 
     p(data-aos="fade-up") En cuanto a la audiencia, algunas de las características principales de los medios sociales que permiten la interacción dentro de ellos son:
 
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-      .row(titulo="Amabilidad de uso con el usuario")
+      .row.col-xl-11.m-auto(titulo="Amabilidad de uso con el usuario")
         .col-lg-7.mb-4.mb-lg-0
           p Gran parte de los medios sociales están diseñados para que cualquier persona pueda utilizarlos. Tal es el caso de #[em WhatsApp] y #[em WhatsApp Web]. Asimismo, las actualizaciones están destinadas a mejorar la experiencia y facilidad de uso. 
         .col-lg-5
           figure
             img(src='@/assets/curso/tema1/15.png')
-      .row(titulo="Audiencia")
+      .row.col-xl-11.m-auto(titulo="Audiencia")
         .col-lg-7.mb-4.mb-lg-0
           p Los medios sociales proporcionan una cobertura, en muchos casos global, por lo que el mercado potencial es de cientos de millones de usuarios. Sin embargo, el porcentaje de uso en el mercado, en comparación con otras aplicaciones de mensajería, debe consultarse para acotar el público objetivo al cual se quiere llegar a través de la aplicación. 
         .col-lg-5
           figure
             img(src='@/assets/curso/tema1/16.png')
-      .row(titulo="Gratuidad")
+      .row.col-xl-11.m-auto(titulo="Gratuidad")
         .col-lg-7.mb-4.mb-lg-0
           p La gran mayoría de los medios sociales son gratuitos y no tienen ningún costo por el uso de sus características básicas. Esto permite que más personas puedan acceder a ellos. En el caso de #[em WhatsApp], tanto su versión personal como su aplicación de #[em WhatsApp Business] son gratuitas.
         .col-lg-5
           figure
             img(src='@/assets/curso/tema1/17.png')
-      .row(titulo="Tiempo real")
+      .row.col-xl-11.m-auto(titulo="Tiempo real")
         .col-lg-7.mb-4.mb-lg-0
           p Los medios sociales pueden proveer respuestas o interacciones inmediatas, sin necesidad de esperar mucho tiempo por respuestas comerciales, dudas, preguntas, casos de servicio al cliente, etc. En el caso de #[em WhatsApp] y #[em WhatsApp Business], su finalidad es la mensajería instantánea, por cuanto la aplicación provee herramientas y opciones de notificaciones para no perder la conectividad con el cliente cuando se le está atendiendo. 
         .col-lg-5
@@ -226,7 +227,7 @@
             img(src='@/assets/curso/tema1/18.png')
 
     .row.mt-5.ps-4.pe-4.pt-4.cont_1_1(style="position:relative;")
-      .col-xl-8.mb-xl-0.mb-5(style="place-self:center;position:relative")
+      .col-xl-7.mb-xl-0.mb-5(style="place-self:center;position:relative")
         p.mb-0.mt-4(data-aos="fade-up") Lo novedoso de las nuevas formas de interacción en línea es que las aplicaciones traen nuevas herramientas para responder al cliente inmediatamente, #[strong aumentando la rentabilidad en términos de impacto en su comunidad digital.] Para esto, existen protocolos, metas y tácticas que explotan la posibilidad con la que ahora cuentan los consumidores de compartir sus experiencias con el producto o servicio adquirido, por medio de las redes sociales. 
       .col-xl-4(style="position:relative")
         figure
@@ -243,7 +244,7 @@
 
     .mt-5.mb-4(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") Creación de respuestas automatizadas
+        h4.mb-0(data-aos="fade-up") Creación de respuestas automatizadas
 
     p(data-aos="fade-up") Para lograr estar en comunicación con los clientes, ya sea para finalizar una venta, atender un caso de servicio al cliente o proporcionar asesoría técnica, #[em WhatsApp Business] ofrece al usuario la posibilidad de enviar mensajes automáticos. Estos mensajes permiten responder al cliente así no haya personal disponible, manteniendo al cliente conectado, lo cual es beneficioso para la sensación de satisfacción durante el proceso de atención al cliente. Estos mensajes, a manera inicial, se componen de mensaje de bienvenida y mensaje de ausencia, como se puede observar en el siguiente video:
 
@@ -255,7 +256,7 @@
 
     .mt-5.mb-4(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
-        h5.mb-0(data-aos="fade-up") Crear un mensaje de respuesta rápida
+        h4.mb-0(data-aos="fade-up") Crear un mensaje de respuesta rápida
 
     .row
       .col-lg-8(style="place-self:center")
@@ -328,4 +329,10 @@ export default {
   top: 0
   background: rgb(250,235,205)
   background: linear-gradient(360deg, rgba(250,235,205,1) 80%, rgba(255,255,255,1) 80%)
+@media screen and (max-width: 1399px)
+  .cont_1_1:before
+    background: rgb(250,235,205) !important
+@media screen and (max-width: 720px)
+  .slyder-a__bullets__item
+    margin: 0 4px !important
 </style>

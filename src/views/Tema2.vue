@@ -34,35 +34,35 @@
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4")
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/3.svg')
+        img(src='@/assets/curso/tema2/3.svg' style="max-width:120px;")
         .tarjeta.color-acento-contenido
           .p-4.text-center
             h4.text-center.mt-4 Pilares
             p.mt-4 Sus tres pilares son: la sociedad de consumo, la cultura de comercio y la publicidad.
             p.mt-4 #[em De todos para todos.]
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/4.svg')
+        img(src='@/assets/curso/tema2/4.svg' style="max-width:120px;")
         .tarjeta.color-acento-botones(style="background-color:#00C1AB;")
           .p-4.text-center
             h4.text-center.mt-4(style="color:initial;") Globalización
             p.mt-4(style="color:initial;") Está estrechamente relacionada con la globalización.
             p.mt-4(style="color:initial;") El mundo es uno solo para todos.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/5.svg')
+        img(src='@/assets/curso/tema2/5.svg' style="max-width:120px;")
         .tarjeta.color-acento-contenido
           .p-4.text-center
             h4.text-center.mt-4(style="color:initial;") Consumo
             p.mt-4(style="color:initial;") Se relaciona directamente con la capacidad de consumo.
             p.mt-4(style="color:initial;") El comercio es mundial.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/6.svg')
+        img(src='@/assets/curso/tema2/6.svg' style="max-width:120px;")
         .tarjeta.color-acento-botones(style="background-color:#00C1AB;")
           .p-4.text-center
             h4.text-center.mt-4(style="color:initial;") Multiculturalidad
             p.mt-4(style="color:initial;") Se destaca en ella la multiculturalidad.
             p.mt-4(style="color:initial;") Somos una sola cultura.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/7.svg')
+        img(src='@/assets/curso/tema2/7.svg' style="max-width:120px;")
         .tarjeta.color-acento-contenido
           .p-4.text-center
             h4.text-center.mt-4(style="color:initial;") Artes
@@ -168,7 +168,7 @@
           .p-3(style="background-color:#FFD76A;")
             .m-auto.text-center(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0 Ventajas
+                h4.mb-0 Ventajas
           figure
             img(src="@/assets/curso/tema2/14.png" data-aos="fade-in")
           .p-4
@@ -193,7 +193,7 @@
           .p-3(style="background-color:#00C1AB;")
             .m-auto.text-center(style="width:fit-content;")
               .pt-2.pb-2.bg-white.ps-5.pe-5(style="border-radius:50px;")
-                h5.mb-0 Desventajas
+                h4.mb-0 Desventajas
           figure
             img(src="@/assets/curso/tema2/15.png" data-aos="fade-in")
           .p-4
@@ -271,6 +271,7 @@ export default {
     .slyder-f__slyde
       display: flex
       align-items: stretch
+      justify-content: space-around
 .cont_2_1:before
   position: absolute
   content: ''
@@ -302,4 +303,7 @@ export default {
   top: 0
   background: rgb(217,246,243)
   background: linear-gradient(360deg, rgba(217,246,243,1) 80%, rgba(255,255,255,1) 80%)
+@media screen and (max-width: 1399px)
+  .cont_2_1:before
+    background: rgb(250,235,205) !important
 </style>

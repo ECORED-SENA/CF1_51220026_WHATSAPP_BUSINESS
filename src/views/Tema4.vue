@@ -82,30 +82,30 @@
     p.mt-5(data-aos="fade-up") #[strong Dentro de los beneficios que los contenidos pueden traer para una compañía, se encuentran:]
 
     .row.mt-5.m-auto.justify-content-center
-      .col-xl-2.col-lg-4.mb-5.mb-xl-0
+      .col-xl.col-lg-4.mb-5.mb-xl-0
         .h-100.p-4.pb-5(style="background-color:#FFD76A;border-radius:15px;")
           figure.col-6
-            img(src="@/assets/curso/tema4/12.svg" data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema4/12.svg" data-aos="zoom-in-up" style="width:100px;height:100px;")
           p.mt-4(data-aos="fade-up") Mejorar el posicionamiento.
-      .col-xl-2.col-lg-4.mb-5.mb-xl-0
+      .col-xl.col-lg-4.mb-5.mb-xl-0
         .h-100.p-4.pb-5(style="background-color:#FAEBCD;border-radius:15px;")
           figure.col-6
-            img(src="@/assets/curso/tema4/13.svg" data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema4/13.svg" data-aos="zoom-in-up" style="width:100px;height:100px;")
           p.mt-4(data-aos="fade-up") Atraer a un público objetivo o nicho de mercado.
-      .col-xl-2.col-lg-4.mb-5.mb-xl-0
+      .col-xl.col-lg-4.mb-5.mb-xl-0
         .h-100.p-4.pb-5(style="background-color:#FFD76A;border-radius:15px;")
           figure.col-6
-            img(src="@/assets/curso/tema4/14.svg" data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema4/14.svg" data-aos="zoom-in-up" style="width:100px;height:100px;")
           p.mt-4(data-aos="fade-up") Humanizar la marca y darle personalidad.
-      .col-xl-2.col-lg-4.mb-5.mb-xl-0
+      .col-xl.col-lg-4.mb-5.mb-xl-0
         .h-100.p-4.pb-5(style="background-color:#FAEBCD;border-radius:15px;")
           figure.col-6
-            img(src="@/assets/curso/tema4/15.svg" data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema4/15.svg" data-aos="zoom-in-up" style="width:100px;height:100px;")
           p.mt-4(data-aos="fade-up") Generar #[em engagement].
-      .col-xl-2.col-lg-4.mb-5.mb-xl-0
+      .col-xl.col-lg-4.mb-5.mb-xl-0
         .h-100.p-4.pb-5(style="background-color:#FFD76A;border-radius:15px;")
           figure.col-6
-            img(src="@/assets/curso/tema4/16.svg" data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema4/16.svg" data-aos="zoom-in-up" style="width:100px;height:100px;")
           p.mt-4(data-aos="fade-up") Tener mayor autoridad en el mercado.
 
     Separador.mt-5
@@ -180,14 +180,14 @@
       SlyderA(tipo="b")
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Sitio #[em web] o #[em Landing Pages]
+            h4 Sitio #[em web] o #[em Landing Pages]
             p Para impulsar el número de enganches y aumentar el tráfico, es una buena idea incluir enlaces a las #[em landing pages] en las diferentes publicaciones y así relacionar todo tipo de experiencias digitales para los clientes potenciales. Además, esto contribuirá a que los clientes amplíen la información que tengan de los productos o servicios a ofrecer. 
           .col-lg-8
             figure
               img(src='@/assets/curso/tema4/23.png')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Redes sociales
+            h4 Redes sociales
             p Así como en los entornos presenciales existe la publicidad voz a voz, en el entorno digital, existen varios conceptos, como comunidad, nichos y viralidad, que aplican de maneras similares dentro de los canales y flujos de comunicación. Compartir la experiencia positiva que han tenido otros usuarios o clientes hace que el consumo de un producto o servicio sea exitoso. 
             p.mt-4 Si se desarrolla de manera positiva, genera un efecto ‘bola de nieve’ que facilita la difusión de campañas de comunicación y estrategias de mercadeo. 
           .col-lg-8
@@ -195,7 +195,7 @@
               img(src='@/assets/curso/tema4/24.png')
         .row
           .col-lg-4.mb-4.mb-lg-0
-            h5 Blogs
+            h4 Blogs
             p Debido a la popularidad de las plataformas de búsqueda y a los #[em adwords], los blogs son una de las principales fuentes de información que consultan clientes potenciales para investigar acerca de un tema específico, donde pueden verse reflejadas sus necesidades. Por este motivo, muchas compañías desarrollan contenido escrito de alguna temática que se relacione con su actividad económica, para lograr la atracción de sus clientes potenciales a través del posicionamiento de palabras y términos claros en sus blogs. 
             p.mt-4 Es importante alimentar constantemente los textos de estos espacios digitales, para atraer atención a partir de novedades, ajustes, actualizaciones y desarrollos de los productos y servicios que se están promocionando. 
           .col-lg-8
@@ -220,26 +220,26 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/6mm8ODNKGdM" title="Crear una nueva lista de difusión" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mt-5.cont_4_1.pt-5(style="position:relative;")
-      .col-xl-4.mb-5.mb-xl-0(style="position:relative")
+      .col-xl-4.mb-5.mb-xl-0.col-6.m-auto(style="position:relative")
         figure
           img(src="@/assets/curso/tema4/27.png" data-aos="fade-right")
       .col-xl-8(style="position:relative")
         p(data-aos="fade-up") #[strong Algunas limitaciones de la aplicación #[em WhatsApp Business] con respecto al envío de mensajes masivos o listas de difusión son:]
-        ul.lista-ul.mt-4
-          li(data-aos="fade-up")
-            i.fas.fa-paper-plane(style="color:#00C1AB;")
+        ul.fa-ul.mt-4
+          li.mb-2(data-aos="fade-up")
+            i.fas.fa-paper-plane.fa-li(style="color:#00C1AB;")
             | El límite de contactos por lista de difusión es de 256 contactos.
-          li(data-aos="fade-up")
-            i.fas.fa-paper-plane(style="color:#00C1AB;")
+          li.mb-2(data-aos="fade-up")
+            i.fas.fa-paper-plane.fa-li(style="color:#00C1AB;")
             | Se puede hacer uso de listas de difusión solamente mediante dos dispositivos.
-          li(data-aos="fade-up")
-            i.fas.fa-paper-plane(style="color:#00C1AB;")
+          li.mb-2(data-aos="fade-up")
+            i.fas.fa-paper-plane.fa-li(style="color:#00C1AB;")
             | No se puede hacer segregación de contactos o análisis de mensajes.
-          li(data-aos="fade-up")
-            i.fas.fa-paper-plane(style="color:#00C1AB;")
+          li.mb-2(data-aos="fade-up")
+            i.fas.fa-paper-plane.fa-li(style="color:#00C1AB;")
             | En las listas de difusión, no se pueden integrar los servicios de mensajes rápidos, chatbots o respuestas automatizadas.
           li(data-aos="fade-up")
-            i.fas.fa-paper-plane(style="color:#00C1AB;")
+            i.fas.fa-paper-plane.fa-li(style="color:#00C1AB;")
             | Es recomendable que los contactos dentro de la lista de difusión tengan guardado el número de contacto del #[em WhatsApp Business] de la empresa, para asegurar la entrega de dichos mensajes. 
 
     Separador.mt-5
@@ -264,30 +264,30 @@
     .row.mt-5.cont_4_2.pt-5.pb-5(style="position:relative;")
       p(data-aos="fade-up" style="position:relative") #[strong Para ocultar y mostrar artículos del catálogo, siga los siguientes pasos:]
       ol.lista-ol--cuadro.mt-3(style="position:relative")
-        li(data-aos="fade-up") 
+        li.d-block(data-aos="fade-up") 
           .lista-ol--cuadro__vineta
             span(style="color:initial;font-weight:bold;") 1
           | Abrir la aplicación; luego, pulsar en el ícono de ‘más opciones’ "&nbsp;#[i.fas.fa-ellipsis-v]&nbsp;"  , ajustes, herramientas para la empresa, y catálogo.
-        li(data-aos="fade-up") 
+        li.d-block(data-aos="fade-up") 
           .lista-ol--cuadro__vineta
             span(style="color:initial;font-weight:bold;") 2
           | Elegir el catálogo a modificar y pulsar en los artículos que se quieren ocultar. En el caso de que se quieran ocultar varios artículos al tiempo, se debe presionar sostenidamente hasta que la aplicación dé la opción de escoger múltiples opciones. 
-        li(data-aos="fade-up") 
+        li.d-block(data-aos="fade-up") 
           .lista-ol--cuadro__vineta
             span(style="color:initial;font-weight:bold;") 3
           | Por último, pulsar el ícono de ocultar "&nbsp;#[i.fas.fa-eye-slash]&nbsp;" o mostrar  "&nbsp;#[i.fas.fa-eye]&nbsp;", según el efecto que se busque. 
 
       p.mt-4(data-aos="fade-up" style="position:relative") #[strong Y para eliminar un producto o servicio del catálogo, los siguientes:]
       ol.lista-ol--cuadro.mt-3(style="position:relative")
-        li(data-aos="fade-up") 
+        li.d-block(data-aos="fade-up") 
           .lista-ol--cuadro__vineta
             span(style="color:initial;font-weight:bold;") 1
           | Abrir la aplicación; luego, pulsar en el ícono de más opciones "&nbsp;#[i.fas.fa-ellipsis-v]&nbsp;", ajustes, herramientas para la empresa, y catálogo.
-        li(data-aos="fade-up") 
+        li.d-block(data-aos="fade-up") 
           .lista-ol--cuadro__vineta
             span(style="color:initial;font-weight:bold;") 2
           | Elegir el catálogo a modificar y pulsar sostenidamente en el artículo que se quiera eliminar. 
-        li(data-aos="fade-up") 
+        li.d-block(data-aos="fade-up") 
           .lista-ol--cuadro__vineta
             span(style="color:initial;font-weight:bold;") 3
           | Por último, confirmar la eliminación del artículo dentro del catálogo.
@@ -303,24 +303,24 @@
     .row.mt-5.col-xl-10.m-auto
       .col-xl-4.mb-5.mb-xl-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema4/29.svg')
+          img(src='@/assets/curso/tema4/29.svg' style="max-width:120px;")
           .tarjeta.color-acento-contenido
             .p-4.text-center
-              h5.text-center.mt-4(data-aos="fade-up" style="color:initial;") Excelencia
+              h4.text-center.mt-4(data-aos="fade-up" style="color:initial;") Excelencia
               p.mt-4(data-aos="fade-up" style="color:initial;") Tratar de ofrecer productos, servicios y experiencias excelentes, así como canales de atención efectivos y soluciones a los problemas de los clientes que se centren exclusivamente en sus necesidades.
       .col-xl-4.mb-5.mb-xl-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema4/30.svg')
+          img(src='@/assets/curso/tema4/30.svg' style="max-width:120px;")
           .tarjeta.color-secundario
             .p-4.text-center
-              h5.text-center.mt-4(data-aos="fade-up" style="color:initial;") Entendimiento
+              h4.text-center.mt-4(data-aos="fade-up" style="color:initial;") Entendimiento
               p.mt-4(data-aos="fade-up" style="color:initial;") Para conectar realmente con el consumidor, necesitamos entender sus necesidades y transmitir empatía mediante el uso de herramientas transmedia.
       .col-xl-4.mb-5.mb-xl-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema4/31.svg')
+          img(src='@/assets/curso/tema4/31.svg' style="max-width:120px;")
           .tarjeta.color-acento-contenido
             .p-4.text-center
-              h5.text-center.mt-4(data-aos="fade-up" style="color:initial;") Segmentación
+              h4.text-center.mt-4(data-aos="fade-up" style="color:initial;") Segmentación
               p.mt-4(data-aos="fade-up" style="color:initial;") Conocer muy bien el segmento de mercado que se va a abordar y emplear herramientas y contenidos comunicacionales que lo hagan identificarse con la marca.
 
     p.mt-5(data-aos="fade-up") Es así como en este componente formativo se trabajaron las herramientas para utilizar la aplicación #[em WhatsApp Business] y cómo realizar una campaña de narrativa transmedia dirigida a un público objetivo que ya se tiene identificado a partir de palabras claves verificadas por #[em AdWords]. También se expusieron técnicas para saber cómo dirigirse al cliente en términos de #[em copy], mensaje y tono, para influir en su experiencia de compra o de servicio. Adicionalmente, se aplicaron herramientas de creación de contenido gratuito, como #[em Canva], para poder crear mejores experiencias narrativas para el cliente; y finalmente, se expusieron los principales conceptos del catálogo de #[em WhatsApp Business], así como la definición y uso del #[em engagement].
