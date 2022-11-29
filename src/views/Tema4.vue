@@ -305,22 +305,22 @@
         .tarjeta-avatar
           img(src='@/assets/curso/tema4/29.svg' style="max-width:120px;")
           .tarjeta.color-acento-contenido
-            .p-4.text-center
-              h4.text-center.mt-4(data-aos="fade-up" style="color:initial;") Excelencia
+            .p-4.text-center.pt-2
+              h4.text-center(data-aos="fade-up" style="color:initial;") Excelencia
               p.mt-4(data-aos="fade-up" style="color:initial;") Tratar de ofrecer productos, servicios y experiencias excelentes, así como canales de atención efectivos y soluciones a los problemas de los clientes que se centren exclusivamente en sus necesidades.
       .col-xl-4.mb-5.mb-xl-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema4/30.svg' style="max-width:120px;")
           .tarjeta.color-secundario
-            .p-4.text-center
-              h4.text-center.mt-4(data-aos="fade-up" style="color:initial;") Entendimiento
+            .p-4.text-center.pt-2
+              h4.text-center(data-aos="fade-up" style="color:initial;") Entendimiento
               p.mt-4(data-aos="fade-up" style="color:initial;") Para conectar realmente con el consumidor, necesitamos entender sus necesidades y transmitir empatía mediante el uso de herramientas transmedia.
       .col-xl-4.mb-5.mb-xl-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema4/31.svg' style="max-width:120px;")
           .tarjeta.color-acento-contenido
-            .p-4.text-center
-              h4.text-center.mt-4(data-aos="fade-up" style="color:initial;") Segmentación
+            .p-4.text-center.pt-2
+              h4.text-center(data-aos="fade-up" style="color:initial;") Segmentación
               p.mt-4(data-aos="fade-up" style="color:initial;") Conocer muy bien el segmento de mercado que se va a abordar y emplear herramientas y contenidos comunicacionales que lo hagan identificarse con la marca.
 
     p.mt-5(data-aos="fade-up") Es así como en este componente formativo se trabajaron las herramientas para utilizar la aplicación #[em WhatsApp Business] y cómo realizar una campaña de narrativa transmedia dirigida a un público objetivo que ya se tiene identificado a partir de palabras claves verificadas por #[em AdWords]. También se expusieron técnicas para saber cómo dirigirse al cliente en términos de #[em copy], mensaje y tono, para influir en su experiencia de compra o de servicio. Adicionalmente, se aplicaron herramientas de creación de contenido gratuito, como #[em Canva], para poder crear mejores experiencias narrativas para el cliente; y finalmente, se expusieron los principales conceptos del catálogo de #[em WhatsApp Business], así como la definición y uso del #[em engagement].

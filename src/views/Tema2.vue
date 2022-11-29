@@ -36,36 +36,36 @@
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/3.svg' style="max-width:120px;")
         .tarjeta.color-acento-contenido
-          .p-4.text-center
-            h4.text-center.mt-4 Pilares
+          .p-4.text-center.pt-2
+            h4.text-center Pilares
             p.mt-4 Sus tres pilares son: la sociedad de consumo, la cultura de comercio y la publicidad.
             p.mt-4 #[em De todos para todos.]
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/4.svg' style="max-width:120px;")
         .tarjeta.color-acento-botones(style="background-color:#00C1AB;")
-          .p-4.text-center
-            h4.text-center.mt-4(style="color:initial;") Globalización
+          .p-4.text-center.pt-2
+            h4.text-center(style="color:initial;") Globalización
             p.mt-4(style="color:initial;") Está estrechamente relacionada con la globalización.
             p.mt-4(style="color:initial;") El mundo es uno solo para todos.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/5.svg' style="max-width:120px;")
         .tarjeta.color-acento-contenido
-          .p-4.text-center
-            h4.text-center.mt-4(style="color:initial;") Consumo
+          .p-4.text-center.pt-2
+            h4.text-center(style="color:initial;") Consumo
             p.mt-4(style="color:initial;") Se relaciona directamente con la capacidad de consumo.
             p.mt-4(style="color:initial;") El comercio es mundial.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/6.svg' style="max-width:120px;")
         .tarjeta.color-acento-botones(style="background-color:#00C1AB;")
-          .p-4.text-center
-            h4.text-center.mt-4(style="color:initial;") Multiculturalidad
+          .p-4.text-center.pt-2
+            h4.text-center(style="color:initial;") Multiculturalidad
             p.mt-4(style="color:initial;") Se destaca en ella la multiculturalidad.
             p.mt-4(style="color:initial;") Somos una sola cultura.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/7.svg' style="max-width:120px;")
         .tarjeta.color-acento-contenido
-          .p-4.text-center
-            h4.text-center.mt-4(style="color:initial;") Artes
+          .p-4.text-center.pt-2
+            h4.text-center(style="color:initial;") Artes
             p.mt-4(style="color:initial;") Se puede encontrar en esferas como la música, el deporte, el espectáculo, el cine, la fotografía, redes sociales, etc.
             p.mt-4(style="color:initial;") El arte es la expresión que une.
 
