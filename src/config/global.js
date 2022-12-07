@@ -189,7 +189,7 @@ export default {
       referencia:
         'Artear. (2022). Por qué WhatsApp es tan popular en América Latina. Tecno.',
       link:
-        'https://tn.com.ar/tecno/aplicaciones/2022/01/04/por-que-WhatsApp-es-tan-popular-en-america-latina/',
+        'https://tn.com.ar/tecno/aplicaciones/2022/01/04/por-que-whatsapp-es-tan-popular-en-america-latina/',
     },
     {
       referencia:

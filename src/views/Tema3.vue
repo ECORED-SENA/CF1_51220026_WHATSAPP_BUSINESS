@@ -157,7 +157,7 @@
 
     .row
       .col-xl-8.mb-5.mb-xl-0(style="place-self:center")
-        p(data-aos="fade-up") El #[em feed] de noticias, #[em WhatsApp Status] o #[em WhatsApp stories], es una herramienta con la que cuentan las diferentes versiones de App de #[em WhatsApp] para compartir información de interés, mensajes atractivos, promociones, nuevos productos, etc. Empresas tales como Netflix, #[em Hellman’s y Absolut] hacen uso de esta herramienta específica. El formato #[em story] (estado), en sus diferentes versiones de redes sociales: #[em Instagram], Tik Tok, #[em Facebook], YouTube, etc., es uno de los más utilizados y atractivos en la actualidad. Estos mensajes desaparecerán del #[em feed] de los usuarios 24 horas después de publicados (excepto YouTube), por lo que cuentan con una vida útil relativamente corta. Sin embargo, en las dinámicas de consumo digital actuales, es suficiente tiempo como para generar un impacto importante en el usuario, según las expectativas y el objetivo que se quiera alcanzar con ellas. 
+        p(data-aos="fade-up") El #[em feed] de noticias, #[em WhatsApp Status] o #[em WhatsApp stories], es una herramienta con la que cuentan las diferentes versiones de App de #[em WhatsApp] para compartir información de interés, mensajes atractivos, promociones, nuevos productos, etc. Empresas tales como Netflix, #[em Hellman’s y Absolut] hacen uso de esta herramienta específica. El formato #[em story] (estado), en sus diferentes versiones de redes sociales: #[em Instagram], TikTok, #[em Facebook], YouTube, etc., es uno de los más utilizados y atractivos en la actualidad. Estos mensajes desaparecerán del #[em feed] de los usuarios 24 horas después de publicados (excepto YouTube), por lo que cuentan con una vida útil relativamente corta. Sin embargo, en las dinámicas de consumo digital actuales, es suficiente tiempo como para generar un impacto importante en el usuario, según las expectativas y el objetivo que se quiera alcanzar con ellas. 
         p.mt-4(data-aos="fade-up") Es importante mencionar que cada día se comparten más de 500 millones de #[em stories] en la plataforma de #[em WhatsApp]/#[em WhatsApp Business]. #[strong A continuación, se brindarán algunas ideas de contenido que pueden compartirse a través de #[em WhatsApp stories] para generar un impacto positivo en el consumidor o cliente:]
       .col-xl-4(style="place-self:center")
         figure
@@ -206,7 +206,7 @@
         figure
           img(src="@/assets/curso/tema3/25.svg" data-aos="fade-right") 
       .col(style="place-self:center")
-        p.mb-0(data-aos="fade-up") Este concepto es tan viral que no solo se usa por empresas y #[em WhatsApp] corporativo, muchas personas lo usan para informar a su audiencia de lo que están haciendo, a través del #[em WhatsApp] persona. ¿Alguna vez ha publicado un estado de #[em WhatsApp] en el que cuente algo?
+        p.mb-0(data-aos="fade-up") Este concepto es tan viral que no solo se usa por empresas y #[em WhatsApp] corporativo, muchas personas lo usan para informar a su audiencia de lo que están haciendo, a través del #[em WhatsApp] persona. ¿Alguna vez ha publicado un estado de #[em WhatsApp] en el que cuente algo?.
 
     p.mt-5(data-aos="fade-up") Tanto la aplicación de #[em WhatsApp] personal como la #[em WhatsApp Business App] cuentan con la herramienta de #[em feed] o #[em status]. #[strong A continuación, se detallarán algunas instrucciones para utilizar el #[em feed] de noticias, #[em status] o #[em WhatsApp stories]:]
 

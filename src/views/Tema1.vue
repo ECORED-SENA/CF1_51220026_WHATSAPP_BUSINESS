@@ -240,7 +240,7 @@
         figure
           img(src="@/assets/curso/tema1/20.svg" data-aos="fade-right")
       .col(style="place-self:center")
-        p.mb-0(data-aos="fade-up") Según una encuesta que la Corporación Latinobarómetro realizó en 18 países de América Latina, el 64 % de la población del continente utiliza la app. Este porcentaje varía dependiendo del país en el que se ponga la lupa”. En Colombia, según el MinTIC (2021), #[em WhatsApp] es la aplicación con mayor crecimiento durante la pandemia.
+        p.mb-0(data-aos="fade-up") Según una encuesta que la Corporación Latinobarómetro realizó en 18 países de América Latina, el 64 % de la población del continente utiliza la app. Este porcentaje varía dependiendo del país en el que se ponga la lupa. En Colombia, según el MinTIC (2021), #[em WhatsApp] es la aplicación con mayor crecimiento durante la pandemia.
 
     .mt-5.mb-4(style="width:fit-content;")
       .p-2(style="background-color:#FFD76A;")
